@@ -1,0 +1,1265 @@
+12 [23398973183872] INFO perfrun.launcher <> - Launcher main begin
+19 [23398973183872] INFO perfrun.launcher <> - MessageCatalogInit finished
+19 [23398973183872] INFO perfrun.launcher <> - Launcher instance created
+19 [23398973183872] INFO perfrun.launcher <> - argc = 7; cmdline = /share/intel/oneapi/vtune/2022.4.0/bin64/amplxe-runss --ui-output-format xml --ui-output-fd 5 --option-file /work/apac4/xbx/apac/hpc/hoomd-benchmarks/haibin99.b07u26a/config/runss.options.19 
+238 [23398973183872] INFO perfrun.launcher <> - create msngr2::ICliToolContext
+238 [23398973183872] INFO perfrun.launcher <> - create file finder object
+238 [23398973183872] INFO perfrun.launcher <> - create a result directory: pattern = /work/apac4/xbx/apac/hpc/hoomd-benchmarks/haibin99.b07u26a pid = 4294967295
+243 [23398973183872] INFO perfrun.sdk <> - checked that the directory /work/apac4/xbx/apac/hpc/hoomd-benchmarks/haibin99.b07u26a is a local directory
+243 [23398973183872] INFO perfrun.sdk <> - the directory /work/apac4/xbx/apac/hpc/hoomd-benchmarks/haibin99.b07u26a is located on a share or its FS ID is unknown 1196443219
+243 [23398973183872] INFO perfrun.sdk <> - checked that the directory /tmp/amplxe-tmp-uid-1674 is a local directory
+243 [23398973183872] INFO perfrun.sdk <> - the directory /tmp/amplxe-tmp-uid-1674 is a local directory with FS type ID 1481003842
+243 [23398973183872] INFO perfrun.launcher <> - Create a local result directory /tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846 due to the user result path /work/apac4/xbx/apac/hpc/hoomd-benchmarks/haibin99.b07u26a is located on a share
+243 [23398973183872] INFO perfrun.launcher <> - create data directory = /tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846/data.0
+244 [23398973183872] INFO perfrun.launcher <> - create data directory = /work/apac4/xbx/apac/hpc/hoomd-benchmarks/haibin99.b07u26a/data.11
+244 [23398973183872] INFO perfrun.launcher <> - Creating the master collection flag
+244 [23398973183872] INFO perfrun.launcher <> - Done creating the master collection flag
+250 [23398840022784] INFO perfrun.launcher <> - plugin [remoteplug] was disabled because it doesn't support the given collection type.
+250 [23398840022784] INFO perfrun.sdk <> - Allocating TMU :/tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846/data.0/systemcollector-2374713-b07u26a.sc
+250 [23398840022784] INFO perfrun.launcher <> - plugin [vdso] was disabled because it doesn't support the given collection type.
+250 [23398840022784] INFO perfrun.launcher <> - plugin [ptracecollector] was disabled because it doesn't support the given collection type.
+250 [23398840022784] INFO perfrun.launcher <> - plugin [gpu] was disabled because it doesn't support the given collection type.
+251 [23398840022784] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+251 [23398840022784] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+251 [23398840022784] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+251 [23398840022784] INFO perfrun.mrte <> - system-wide mode is 0
+251 [23398840022784] INFO perfrun.mrte <> - Getting  mrte profiling environment ...
+266 [23398840022784] INFO perfrun.mrte <> - INTEL_MRTE_DATA_DIR=/tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846/data.0
+266 [23398840022784] INFO perfrun.mrte <> - INTEL_MRTE_HOST_NAME=b07u26a
+266 [23398840022784] INFO perfrun.mrte <> - JAVA_TOOL_OPTIONS=-agentlib:amplxe_tpssmrte_javaprof_1.0 -Dsun.boot.library.path=/share/intel/oneapi/vtune/2022.4.0/lib32/runtime:/share/intel/oneapi/vtune/2022.4.0/lib64/runtime
+266 [23398840022784] INFO perfrun.mrte <> - LD_LIBRARY_PATH=/share/intel/oneapi/vtune/2022.4.0/lib32/runtime:/share/intel/oneapi/vtune/2022.4.0/lib64/runtime:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ompi/lib:/share/intel/oneapi/tbb/2021.7.0/lib/intel64/gcc4.8:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ompi/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/nccl_rdma_sharp_plugin/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/sharp/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hcoll/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hmc/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ucx/lib/ucx:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ucx/lib:/opt/ibm/lsfsuite/lsf/10.1/linux2.6-glibc2.3-x86_64/lib:/opt/ibm/lsfsuite/ext/ppm/10.2/linux2.6-glibc2.3-x86_64/lib
+294 [23398840022784] INFO perfrun.mrte <> - CORECLR_ENABLE_PROFILING=1
+294 [23398840022784] INFO perfrun.mrte <> - CORECLR_PROFILER={AA5E4821-E3B1-479c-B7FF-5AD047D22CED}
+294 [23398840022784] INFO perfrun.mrte <> - CORECLR_PROFILER_PATH=/share/intel/oneapi/vtune/2022.4.0/lib64/libamplxe_samplingmrte_clrprof_1.0.so
+294 [23398840022784] INFO perfrun.mrte <> - INTEL_MRTE_PROFILER_MODE=mixed
+294 [23398840022784] INFO perfrun.mrte <> - Data directory: /tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846/data.0
+294 [23398840022784] INFO perfrun.mrte <> - Mrte plugin is initialized
+294 [23398840022784] INFO perfrun.launcher <> - plugin [emon] was disabled because it doesn't support the given collection type.
+294 [23398840022784] INFO perfrun.launcher <> - plugin [cuscol] was disabled because it doesn't support the given collection type.
+294 [23398840022784] INFO perfrun.launcher <> - plugin [stdsrc] was disabled because it doesn't support the given collection type.
+294 [23398840022784] INFO perfrun.launcher <> - plugin [sep] was disabled because it doesn't support the given collection type.
+294 [23398840022784] INFO perfrun.launcher <> - plugin [vtsspp] was disabled because it doesn't support the given collection type.
+294 [23398840022784] INFO perfrun.sdk <> - Reading value (2) from file: /proc/sys/kernel/perf_event_paranoid
+294 [23398840022784] INFO perfrun.perfcollector <> - checking access to: /share/intel/oneapi/vtune/2022.4.0/bin64/amplxe-perf-priv
+300 [23398840022784] INFO perfrun.perfcollector <> - cpu: family = 6 model = 85
+300 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_1
+300 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+300 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+300 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+301 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+301 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+301 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+301 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+301 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+301 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+301 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+302 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+302 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+302 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+302 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+302 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+302 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+302 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+302 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+303 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 1
+303 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_irp_3
+303 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+303 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+303 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+303 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+304 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+304 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IRP_PMU_DETAILS
+304 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_irp, id: 3
+304 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/software
+304 [23398840022784] WARN perfrun.perfcollector <> - format subdir doesn't exist, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:719
+304 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: software, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+304 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: software, id: 0
+304 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_14
+304 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+305 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+305 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+305 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+305 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+305 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+305 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+305 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+306 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+306 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+306 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+306 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+306 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+306 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+307 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+307 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+307 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+307 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+307 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 14
+307 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_imc_5
+307 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+308 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+308 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+308 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+308 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+308 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IMC_PMU_DETAILS
+308 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_imc, id: 5
+308 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_m3upi_0
+309 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+309 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+309 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+309 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+309 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+309 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_m3upi, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+309 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_m3upi, id: 0
+309 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_free_running_5
+310 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+310 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+310 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_iio_free_running, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+310 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio_free_running, id: 5
+310 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_irp_1
+310 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+310 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+311 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+311 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+311 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+311 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IRP_PMU_DETAILS
+311 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_irp, id: 1
+311 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_m2m_1
+311 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+312 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+312 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+312 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+312 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+312 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_M2M_PMU_DETAILS
+312 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_m2m, id: 1
+312 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_12
+313 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+313 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+313 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+313 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+313 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+313 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+313 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+314 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+314 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+314 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+314 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+314 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+314 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+314 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+315 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+315 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+315 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+315 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+315 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 12
+315 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_imc_3
+315 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+316 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+316 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+316 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+316 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+316 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IMC_PMU_DETAILS
+316 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_imc, id: 3
+316 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_8
+317 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+317 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+317 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+317 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+317 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+317 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+317 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+318 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+318 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+318 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+318 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+318 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+318 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+318 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+319 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+319 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+319 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+319 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+319 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 8
+319 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_free_running_3
+319 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+320 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+320 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_iio_free_running, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+320 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio_free_running, id: 3
+320 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_10
+320 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+320 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+320 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+321 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+321 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+321 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+321 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+321 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+321 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+321 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+322 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+322 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+322 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+322 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+322 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+322 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+322 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+322 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+323 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 10
+323 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_imc_1
+323 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+323 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+323 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+323 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+324 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+324 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IMC_PMU_DETAILS
+324 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_imc, id: 1
+324 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_upi_1
+324 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+324 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+324 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+325 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15,32-43,45-55 mask:8-15,32-43,45-55
+325 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+325 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_UPI_PMU_DETAILS
+325 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_upi, id: 1
+325 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/power
+325 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+325 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: power, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+325 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: power, id: 0
+326 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_6
+326 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+326 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+326 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+326 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+326 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+327 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+327 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+327 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+327 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+327 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+327 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+327 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+328 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+328 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+328 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+328 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+328 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+328 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+328 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 6
+328 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_free_running_1
+329 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+329 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+329 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_iio_free_running, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+329 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio_free_running, id: 1
+329 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_19
+329 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+330 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+330 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+330 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+330 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+330 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+330 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+330 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+331 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+331 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+331 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+331 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+331 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+331 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+331 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+332 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+332 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+332 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+332 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 19
+332 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_4
+332 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+332 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+332 [23398840022784] INFO perfrun.perfcollector <> - format: fc_mask config:44-46 mask:44-46
+333 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+333 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+333 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-35 mask:24-35
+333 [23398840022784] INFO perfrun.perfcollector <> - format: ch_mask config:36-43 mask:36-43
+333 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IIO_PMU_DETAILS
+333 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio, id: 4
+333 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uprobe
+334 [23398840022784] INFO perfrun.perfcollector <> - format: retprobe config:0 mask:0
+334 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uprobe, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+334 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uprobe, id: 0
+334 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/cpu
+334 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+334 [23398840022784] INFO perfrun.perfcollector <> - format: pc config:19 mask:19
+334 [23398840022784] INFO perfrun.perfcollector <> - format: in_tx config:32 mask:32
+334 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+334 [23398840022784] INFO perfrun.perfcollector <> - format: any config:21 mask:21
+335 [23398840022784] INFO perfrun.perfcollector <> - format: offcore_rsp config1:0-63 mask:0-63
+335 [23398840022784] INFO perfrun.perfcollector <> - format: in_tx_cp config:33 mask:33
+335 [23398840022784] INFO perfrun.perfcollector <> - format: ldlat config1:0-15 mask:0-15
+335 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+335 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+335 [23398840022784] INFO perfrun.perfcollector <> - format: frontend config1:0-23 mask:0-23
+335 [23398840022784] INFO perfrun.perfcollector <> - format: cmask config:24-31 mask:24-31
+335 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CPU_PMU_DETAILS
+336 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: cpu, id: 0
+336 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_4
+336 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+336 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+336 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+336 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+336 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+336 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+337 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+337 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+337 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+337 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+337 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+337 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+337 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+337 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+338 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+338 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+338 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+338 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+338 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 4
+338 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_17
+338 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+338 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+338 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+339 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+339 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+339 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+339 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+339 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+339 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+339 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+339 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+339 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+340 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+340 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+340 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+340 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+340 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+340 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+340 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 17
+340 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_2
+340 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+341 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+341 [23398840022784] INFO perfrun.perfcollector <> - format: fc_mask config:44-46 mask:44-46
+341 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+341 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+341 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-35 mask:24-35
+341 [23398840022784] INFO perfrun.perfcollector <> - format: ch_mask config:36-43 mask:36-43
+341 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IIO_PMU_DETAILS
+341 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio, id: 2
+341 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/cstate_core
+342 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-63 mask:0-63
+342 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: cstate_core, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+342 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: cstate_core, id: 0
+342 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/breakpoint
+342 [23398840022784] WARN perfrun.perfcollector <> - format subdir doesn't exist, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:719
+342 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: breakpoint, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+342 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: breakpoint, id: 0
+342 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_2
+342 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+343 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+343 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+343 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+343 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+343 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+343 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+343 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+343 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+344 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+344 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+344 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+344 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+344 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+344 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+344 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+344 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+344 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+345 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 2
+345 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_irp_4
+345 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+345 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+345 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+345 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+345 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+345 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IRP_PMU_DETAILS
+345 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_irp, id: 4
+346 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_15
+346 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+346 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+346 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+346 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+346 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+346 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+347 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+347 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+347 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+347 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+347 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+347 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+347 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+347 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+347 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+348 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+348 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+348 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+348 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 15
+348 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_m3upi_1
+348 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+348 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+348 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+348 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+349 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+349 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_m3upi, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+349 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_m3upi, id: 1
+349 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_0
+349 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+349 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+349 [23398840022784] INFO perfrun.perfcollector <> - format: fc_mask config:44-46 mask:44-46
+349 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+350 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+350 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-35 mask:24-35
+350 [23398840022784] INFO perfrun.perfcollector <> - format: ch_mask config:36-43 mask:36-43
+350 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IIO_PMU_DETAILS
+350 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio, id: 0
+350 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/tracepoint
+350 [23398840022784] WARN perfrun.perfcollector <> - format subdir doesn't exist, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:719
+350 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: tracepoint, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+350 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: tracepoint, id: 0
+350 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_0
+351 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+351 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+351 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+351 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+351 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+351 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+352 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+352 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+352 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+352 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+352 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+352 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+352 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+353 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+353 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+353 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+353 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+353 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+353 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 0
+353 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_irp_2
+354 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+354 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+354 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+354 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+354 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+354 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IRP_PMU_DETAILS
+354 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_irp, id: 2
+354 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_13
+355 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+355 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+355 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+355 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+355 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+355 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+356 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+356 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+356 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+356 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+356 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+356 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+356 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+357 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+357 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+357 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+357 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+357 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+357 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 13
+357 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/cstate_pkg
+358 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-63 mask:0-63
+358 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: cstate_pkg, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+358 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: cstate_pkg, id: 0
+358 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_imc_4
+358 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+358 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+358 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+359 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+359 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+359 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IMC_PMU_DETAILS
+359 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_imc, id: 4
+359 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_9
+359 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+360 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+360 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+360 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+360 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+360 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+360 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+360 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+361 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+361 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+361 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+361 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+361 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+361 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+361 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+362 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+362 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+362 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+362 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 9
+362 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_free_running_4
+362 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+362 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+362 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_iio_free_running, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+363 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio_free_running, id: 4
+363 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_ubox
+363 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+363 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+363 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+363 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+364 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-28 mask:24-28
+364 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_ubox, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+364 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_ubox, id: 0
+364 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_irp_0
+364 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+364 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+365 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+365 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+365 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+365 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IRP_PMU_DETAILS
+365 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_irp, id: 0
+365 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_m2m_0
+365 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+365 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+366 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+366 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+366 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+366 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_M2M_PMU_DETAILS
+366 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_m2m, id: 0
+366 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_11
+367 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+367 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+367 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+367 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+367 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+367 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+367 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+368 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+368 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+368 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+368 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+368 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+368 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+368 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+369 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+369 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+369 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+369 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+369 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 11
+369 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_imc_2
+369 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+370 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+370 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+370 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+370 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+370 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IMC_PMU_DETAILS
+370 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_imc, id: 2
+370 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_upi_2
+371 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+371 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+371 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+371 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15,32-43,45-55 mask:8-15,32-43,45-55
+371 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+371 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_UPI_PMU_DETAILS
+371 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_upi, id: 2
+371 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/kprobe
+372 [23398840022784] INFO perfrun.perfcollector <> - format: retprobe config:0 mask:0
+372 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: kprobe, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+372 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: kprobe, id: 0
+372 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_7
+372 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+372 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+373 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+373 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+373 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+373 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+373 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+373 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+374 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+374 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+374 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+374 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+374 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+374 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+374 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+375 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+375 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+375 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+375 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 7
+375 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_free_running_2
+375 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+375 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+375 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_iio_free_running, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+376 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio_free_running, id: 2
+376 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_5
+376 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+376 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+376 [23398840022784] INFO perfrun.perfcollector <> - format: fc_mask config:44-46 mask:44-46
+376 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+377 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+377 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-35 mask:24-35
+377 [23398840022784] INFO perfrun.perfcollector <> - format: ch_mask config:36-43 mask:36-43
+377 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IIO_PMU_DETAILS
+377 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio, id: 5
+377 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_imc_0
+377 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+378 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+378 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+378 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+378 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+378 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IMC_PMU_DETAILS
+378 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_imc, id: 0
+378 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_upi_0
+379 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+379 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+379 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+379 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15,32-43,45-55 mask:8-15,32-43,45-55
+379 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+379 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_UPI_PMU_DETAILS
+379 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_upi, id: 0
+379 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_5
+380 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+380 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+380 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+380 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+380 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+381 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+381 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+381 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+381 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+381 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+381 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+381 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+382 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+382 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+382 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+382 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+382 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+382 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+382 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 5
+383 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_free_running_0
+383 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+383 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+383 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_iio_free_running, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+383 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio_free_running, id: 0
+383 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_pcu
+384 [23398840022784] INFO perfrun.perfcollector <> - format: filter_band2 config1:16-23 mask:16-23
+384 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+384 [23398840022784] INFO perfrun.perfcollector <> - format: filter_band0 config1:0-7 mask:0-7
+384 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+384 [23398840022784] INFO perfrun.perfcollector <> - format: occ_invert config:30 mask:30
+384 [23398840022784] INFO perfrun.perfcollector <> - format: filter_band3 config1:24-31 mask:24-31
+384 [23398840022784] INFO perfrun.perfcollector <> - format: filter_band1 config1:8-15 mask:8-15
+385 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+385 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+385 [23398840022784] INFO perfrun.perfcollector <> - format: occ_edge_det config:31 mask:31
+385 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+385 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_pcu, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+385 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_pcu, id: 0
+385 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_18
+386 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+386 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+386 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+386 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+386 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+386 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+386 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+386 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+387 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+387 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+387 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+387 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+387 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+387 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+387 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+388 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+388 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+388 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+388 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 18
+388 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/msr
+388 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-63 mask:0-63
+388 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: msr, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+388 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: msr, id: 0
+388 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_3
+389 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+389 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+389 [23398840022784] INFO perfrun.perfcollector <> - format: fc_mask config:44-46 mask:44-46
+389 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+389 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+389 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-35 mask:24-35
+390 [23398840022784] INFO perfrun.perfcollector <> - format: ch_mask config:36-43 mask:36-43
+390 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IIO_PMU_DETAILS
+390 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio, id: 3
+390 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/intel_pt
+390 [23398840022784] INFO perfrun.perfcollector <> - format: ptw config:12 mask:12
+390 [23398840022784] INFO perfrun.perfcollector <> - format: cyc_thresh config:19-22 mask:19-22
+390 [23398840022784] INFO perfrun.perfcollector <> - format: pt config:0 mask:0
+391 [23398840022784] INFO perfrun.perfcollector <> - format: branch config:13 mask:13
+391 [23398840022784] INFO perfrun.perfcollector <> - format: tsc config:10 mask:10
+391 [23398840022784] INFO perfrun.perfcollector <> - format: pwr_evt config:4 mask:4
+391 [23398840022784] INFO perfrun.perfcollector <> - format: fup_on_ptw config:5 mask:5
+391 [23398840022784] INFO perfrun.perfcollector <> - format: cyc config:1 mask:1
+391 [23398840022784] INFO perfrun.perfcollector <> - format: noretcomp config:11 mask:11
+391 [23398840022784] INFO perfrun.perfcollector <> - format: mtc config:9 mask:9
+392 [23398840022784] INFO perfrun.perfcollector <> - format: psb_period config:24-27 mask:24-27
+392 [23398840022784] INFO perfrun.perfcollector <> - format: mtc_period config:14-17 mask:14-17
+392 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: intel_pt, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+392 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: intel_pt, id: 0
+392 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_3
+392 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+392 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+392 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+393 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+393 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+393 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+393 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+393 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+393 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+393 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+394 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+394 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+394 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+394 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+394 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+394 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+394 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+394 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+395 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 3
+395 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_irp_5
+395 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+395 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+395 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+395 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+395 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+395 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IRP_PMU_DETAILS
+396 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_irp, id: 5
+396 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_cha_16
+396 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+396 [23398840022784] INFO perfrun.perfcollector <> - format: filter_rem config1:32 mask:32
+396 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc0 config1:41-50 mask:41-50
+396 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+396 [23398840022784] INFO perfrun.perfcollector <> - format: filter_isoc config1:63 mask:63
+396 [23398840022784] INFO perfrun.perfcollector <> - format: filter_tid config1:0-8 mask:0-8
+397 [23398840022784] INFO perfrun.perfcollector <> - format: filter_loc config1:33 mask:33
+397 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nc config1:62 mask:62
+397 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+397 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+397 [23398840022784] INFO perfrun.perfcollector <> - format: filter_opc1 config1:51-60 mask:51-60
+397 [23398840022784] INFO perfrun.perfcollector <> - format: tid_en config:19 mask:19
+397 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+397 [23398840022784] INFO perfrun.perfcollector <> - format: filter_all_op config1:35 mask:35
+398 [23398840022784] INFO perfrun.perfcollector <> - format: filter_not_nm config1:37 mask:37
+398 [23398840022784] INFO perfrun.perfcollector <> - format: filter_state config1:17-26 mask:17-26
+398 [23398840022784] INFO perfrun.perfcollector <> - format: filter_nm config1:36 mask:36
+398 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_CHA_PMU_DETAILS
+398 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_cha, id: 16
+398 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_m3upi_2
+398 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+398 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+398 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+399 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+399 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-31 mask:24-31
+399 [23398840022784] WARN perfrun.perfcollector <> - pmu hwInfo is not set, pmuFam: uncore_m3upi, at file: vcs/perfrun1/plugins/perfcollector/src/controller.cpp:828
+399 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_m3upi, id: 2
+399 [23398840022784] INFO perfrun.perfcollector <> - dir found: /sys/bus/event_source/devices/uncore_iio_1
+399 [23398840022784] INFO perfrun.perfcollector <> - format: event config:0-7 mask:0-7
+399 [23398840022784] INFO perfrun.perfcollector <> - format: edge config:18 mask:18
+399 [23398840022784] INFO perfrun.perfcollector <> - format: fc_mask config:44-46 mask:44-46
+400 [23398840022784] INFO perfrun.perfcollector <> - format: inv config:23 mask:23
+400 [23398840022784] INFO perfrun.perfcollector <> - format: umask config:8-15 mask:8-15
+400 [23398840022784] INFO perfrun.perfcollector <> - format: thresh config:24-35 mask:24-35
+400 [23398840022784] INFO perfrun.perfcollector <> - format: ch_mask config:36-43 mask:36-43
+400 [23398840022784] INFO perfrun.perfcollector <> - hwInfo: PERF_IIO_PMU_DETAILS
+400 [23398840022784] INFO perfrun.perfcollector <> - pmu added: family: uncore_iio, id: 1
+400 [23398840022784] WARN perfrun.launcher <> - Messenger::say: Only user space will be profiled due to credentials lack. Consider changing /proc/sys/kernel/perf_event_paranoid file for enabling kernel space profiling.
+400 [23398840022784] INFO perfrun.sdk <> - runCmd: /share/intel/oneapi/vtune/2022.4.0/bin64/sep -dry-run -sam 1 -ec CPU_CLK_UNHALTED.THREAD,CPU_CLK_UNHALTED.REF_TSC:sample:sa=2500000,INST_RETIRED.ANY:sample:sa=2500000,CPU_CLK_UNHALTED.REF_XCLK,CPU_CLK_UNHALTED.ONE_THREAD_ACTIVE,FP_ARITH_INST_RETIRED.SCALAR_SINGLE,FP_ARITH_INST_RETIRED.128B_PACKED_SINGLE,FP_ARITH_INST_RETIRED.256B_PACKED_SINGLE,FP_ARITH_INST_RETIRED.SCALAR_DOUBLE,FP_ARITH_INST_RETIRED.128B_PACKED_DOUBLE,FP_ARITH_INST_RETIRED.256B_PACKED_DOUBLE,UOPS_EXECUTED.X87,UOPS_RETIRED.RETIRE_SLOTS:sample:sa=2000003,UOPS_EXECUTED.THREAD,FP_ARITH_INST_RETIRED.512B_PACKED_DOUBLE,FP_ARITH_INST_RETIRED.512B_PACKED_SINGLE -experimental
+401 [23398840022784] INFO perfrun.sdk <> - runCmd started PID 2374781
+454 [23398840022784] INFO perfrun.perfcollector <> - SepDryRun RC = true
+459 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "PMU type: Core (core)"
+459 [23398840022784] INFO perfrun.perfcollector <> - pmu type: cpu
+459 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "Group 0:"
+459 [23398840022784] INFO perfrun.perfcollector <> - id: 0
+459 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "INST_RETIRED.ANY: event id 2"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: INST_RETIRED.ANY, eventId: 2
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "CPU_CLK_UNHALTED.THREAD: event id 0"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: CPU_CLK_UNHALTED.THREAD, eventId: 0
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "CPU_CLK_UNHALTED.REF_TSC: event id 1"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: CPU_CLK_UNHALTED.REF_TSC, eventId: 1
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "CPU_CLK_UNHALTED.REF_XCLK: event id 3"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: CPU_CLK_UNHALTED.REF_XCLK, eventId: 3
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "CPU_CLK_UNHALTED.ONE_THREAD_ACTIVE: event id 4"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: CPU_CLK_UNHALTED.ONE_THREAD_ACTIVE, eventId: 4
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "FP_ARITH_INST_RETIRED.SCALAR_SINGLE: event id 5"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: FP_ARITH_INST_RETIRED.SCALAR_SINGLE, eventId: 5
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "FP_ARITH_INST_RETIRED.128B_PACKED_SINGLE: event id 6"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: FP_ARITH_INST_RETIRED.128B_PACKED_SINGLE, eventId: 6
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "FP_ARITH_INST_RETIRED.256B_PACKED_SINGLE: event id 7"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: FP_ARITH_INST_RETIRED.256B_PACKED_SINGLE, eventId: 7
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "FP_ARITH_INST_RETIRED.SCALAR_DOUBLE: event id 8"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: FP_ARITH_INST_RETIRED.SCALAR_DOUBLE, eventId: 8
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "FP_ARITH_INST_RETIRED.128B_PACKED_DOUBLE: event id 9"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: FP_ARITH_INST_RETIRED.128B_PACKED_DOUBLE, eventId: 9
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "FP_ARITH_INST_RETIRED.256B_PACKED_DOUBLE: event id 10"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: FP_ARITH_INST_RETIRED.256B_PACKED_DOUBLE, eventId: 10
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "CCCR"
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 38f	reg_value      = 7000000ff"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+460 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 0, reg_type: 1, event_id: 4294967295, reg_id: 38f, reg_value: 7000000ff, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 390	reg_value      = 7000000ff"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+460 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 0, reg_type: 1, event_id: 4294967295, reg_id: 390, reg_value: 7000000ff, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 3f1	reg_value      = 0"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+460 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 0, reg_type: 1, event_id: 4294967295, reg_id: 3f1, reg_value: 0, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 1d9	reg_value      = 1800"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+460 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 0, reg_type: 1, event_id: 4294967295, reg_id: 1d9, reg_value: 1800, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 38d	reg_value      = bbb"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+460 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 0, reg_type: 1, event_id: 4294967295, reg_id: 38d, reg_value: bbb, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 3	reg_id         = 186	reg_value      = 53013c"
+460 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 0, reg_type: 1, event_id: 3, reg_id: 186, reg_value: 53013c, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 4	reg_id         = 187	reg_value      = 53023c"
+460 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 0, reg_type: 1, event_id: 4, reg_id: 187, reg_value: 53023c, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 5	reg_id         = 188	reg_value      = 5302c7"
+460 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 0, reg_type: 1, event_id: 5, reg_id: 188, reg_value: 5302c7, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 6	reg_id         = 189	reg_value      = 5308c7"
+460 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 0, reg_type: 1, event_id: 6, reg_id: 189, reg_value: 5308c7, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 7	reg_id         = 18a	reg_value      = 5320c7"
+460 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 0, reg_type: 1, event_id: 7, reg_id: 18a, reg_value: 5320c7, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 8	reg_id         = 18b	reg_value      = 5301c7"
+460 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 0, reg_type: 1, event_id: 8, reg_id: 18b, reg_value: 5301c7, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 9	reg_id         = 18c	reg_value      = 5304c7"
+460 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 0, reg_type: 1, event_id: 9, reg_id: 18c, reg_value: 5304c7, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 10	reg_id         = 18d	reg_value      = 5310c7"
+460 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 0, reg_type: 1, event_id: 10, reg_id: 18d, reg_value: 5310c7, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "ESCR"
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 2	event_id       = g	reg_id         = 1c8	reg_value      = 0"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "DATA"
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 2	reg_id         = 309	reg_value      = ffffffd9da60"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 2, dataAddr: 309, dataVal: ffffffd9da60
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 0	reg_id         = 30a	reg_value      = ffffffe17b7d"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 0, dataAddr: 30a, dataVal: ffffffe17b7d
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 1	reg_id         = 30b	reg_value      = ffffffd9da60"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 1, dataAddr: 30b, dataVal: ffffffd9da60
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 3	reg_id         = c1	reg_value      = ffffffff9e55"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 3, dataAddr: c1, dataVal: ffffffff9e55
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 4	reg_id         = c2	reg_value      = ffffffff9e55"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 4, dataAddr: c2, dataVal: ffffffff9e55
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 5	reg_id         = c3	reg_value      = ffffffe17b7d"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 5, dataAddr: c3, dataVal: ffffffe17b7d
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 6	reg_id         = c4	reg_value      = ffffffe17b7d"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 6, dataAddr: c4, dataVal: ffffffe17b7d
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 7	reg_id         = c5	reg_value      = ffffffe17b7d"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 7, dataAddr: c5, dataVal: ffffffe17b7d
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 8	reg_id         = c6	reg_value      = ffffffe17b7d"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 8, dataAddr: c6, dataVal: ffffffe17b7d
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 9	reg_id         = c7	reg_value      = ffffffe17b7d"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 9, dataAddr: c7, dataVal: ffffffe17b7d
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 10	reg_id         = c8	reg_value      = ffffffe17b7d"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: 10, dataAddr: c8, dataVal: ffffffe17b7d
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "Group 1:"
+460 [23398840022784] INFO perfrun.perfcollector <> - id: 1
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "INST_RETIRED.ANY: event id 2"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: INST_RETIRED.ANY, eventId: 2
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "CPU_CLK_UNHALTED.THREAD: event id 0"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: CPU_CLK_UNHALTED.THREAD, eventId: 0
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "CPU_CLK_UNHALTED.REF_TSC: event id 1"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: CPU_CLK_UNHALTED.REF_TSC, eventId: 1
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "UOPS_EXECUTED.X87: event id 11"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: UOPS_EXECUTED.X87, eventId: 11
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "UOPS_RETIRED.RETIRE_SLOTS: event id 12"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: UOPS_RETIRED.RETIRE_SLOTS, eventId: 12
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "UOPS_EXECUTED.THREAD: event id 13"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: UOPS_EXECUTED.THREAD, eventId: 13
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "FP_ARITH_INST_RETIRED.512B_PACKED_DOUBLE: event id 14"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: FP_ARITH_INST_RETIRED.512B_PACKED_DOUBLE, eventId: 14
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "FP_ARITH_INST_RETIRED.512B_PACKED_SINGLE: event id 15"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventName: FP_ARITH_INST_RETIRED.512B_PACKED_SINGLE, eventId: 15
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "CCCR"
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 38f	reg_value      = 70000001f"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+460 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 1, reg_type: 1, event_id: 4294967295, reg_id: 38f, reg_value: 70000001f, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 390	reg_value      = 70000001f"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+460 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 1, reg_type: 1, event_id: 4294967295, reg_id: 390, reg_value: 70000001f, pmu_name: cpu
+460 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 3f1	reg_value      = 0"
+460 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+461 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 1, reg_type: 1, event_id: 4294967295, reg_id: 3f1, reg_value: 0, pmu_name: cpu
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 1d9	reg_value      = 1800"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+461 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 1, reg_type: 1, event_id: 4294967295, reg_id: 1d9, reg_value: 1800, pmu_name: cpu
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = g	reg_id         = 38d	reg_value      = bbb"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+461 [23398840022784] INFO perfrun.perfcollector <> - Register was ignored: group_id: 1, reg_type: 1, event_id: 4294967295, reg_id: 38d, reg_value: bbb, pmu_name: cpu
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 11	reg_id         = 186	reg_value      = 5310b1"
+461 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 1, reg_type: 1, event_id: 11, reg_id: 186, reg_value: 5310b1, pmu_name: cpu
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 12	reg_id         = 187	reg_value      = 5302c2"
+461 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 1, reg_type: 1, event_id: 12, reg_id: 187, reg_value: 5302c2, pmu_name: cpu
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 13	reg_id         = 188	reg_value      = 5301b1"
+461 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 1, reg_type: 1, event_id: 13, reg_id: 188, reg_value: 5301b1, pmu_name: cpu
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 14	reg_id         = 189	reg_value      = 5340c7"
+461 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 1, reg_type: 1, event_id: 14, reg_id: 189, reg_value: 5340c7, pmu_name: cpu
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 1	event_id       = 15	reg_id         = 18a	reg_value      = 5380c7"
+461 [23398840022784] INFO perfrun.perfcollector <> - Event selector: group_id: 1, reg_type: 1, event_id: 15, reg_id: 18a, reg_value: 5380c7, pmu_name: cpu
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "ESCR"
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 2	event_id       = g	reg_id         = 1c8	reg_value      = 0"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: g, skip parsing event_id
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "DATA"
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 2	reg_id         = 309	reg_value      = ffffffd9da60"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: 2, dataAddr: 309, dataVal: ffffffd9da60
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 0	reg_id         = 30a	reg_value      = ffffffe17b7d"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: 0, dataAddr: 30a, dataVal: ffffffe17b7d
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 1	reg_id         = 30b	reg_value      = ffffffd9da60"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: 1, dataAddr: 30b, dataVal: ffffffd9da60
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 11	reg_id         = c1	reg_value      = ffffffe17b7d"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: 11, dataAddr: c1, dataVal: ffffffe17b7d
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 12	reg_id         = c2	reg_value      = ffffffe17b7d"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: 12, dataAddr: c2, dataVal: ffffffe17b7d
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 13	reg_id         = c3	reg_value      = ffffffe17b7d"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: 13, dataAddr: c3, dataVal: ffffffe17b7d
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 14	reg_id         = c4	reg_value      = ffffffe17b7d"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: 14, dataAddr: c4, dataVal: ffffffe17b7d
+461 [23398840022784] INFO perfrun.perfcollector <> - DRY_RUN: "reg_type       = 4	event_id       = 15	reg_id         = c5	reg_value      = ffffffe17b7d"
+461 [23398840022784] INFO perfrun.perfcollector <> - eventId: 15, dataAddr: c5, dataVal: ffffffe17b7d
+461 [23398840022784] INFO perfrun.perfcollector <> - event name: CPU_CLK_UNHALTED.THREAD
+461 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: ffffffff, m_cccrVal: 0, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: 30a, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: event: 3c
+461 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0x3c,name='CPU_CLK_UNHALTED.THREAD'/D
+461 [23398840022784] INFO perfrun.perfcollector <> - event name: CPU_CLK_UNHALTED.REF_TSC
+461 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: ffffffff, m_cccrVal: 0, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: 30b, m_dataVal: ffffffffffd9da60, m_extPebsVal: 0, m_adtPebsAvail: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: event: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 3
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/umask=0x3,name='CPU_CLK_UNHALTED.REF_TSC'/D
+461 [23398840022784] INFO perfrun.perfcollector <> - event name: INST_RETIRED.ANY
+461 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: ffffffff, m_cccrVal: 0, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: 309, m_dataVal: ffffffffffd9da60, m_extPebsVal: 0, m_adtPebsAvail: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: event: c0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc0,name='INST_RETIRED.ANY'/D
+461 [23398840022784] INFO perfrun.perfcollector <> - event name: CPU_CLK_UNHALTED.REF_XCLK
+461 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 186, m_cccrVal: 53013c, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c1, m_dataVal: ffffffffffff9e55, m_extPebsVal: 0, m_adtPebsAvail: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: event: 3c
+461 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 1
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0x3c,umask=0x1,name='CPU_CLK_UNHALTED.REF_XCLK'/
+461 [23398840022784] INFO perfrun.perfcollector <> - event name: CPU_CLK_UNHALTED.ONE_THREAD_ACTIVE
+461 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 187, m_cccrVal: 53023c, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c2, m_dataVal: ffffffffffff9e55, m_extPebsVal: 0, m_adtPebsAvail: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: event: 3c
+461 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 2
+461 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0x3c,umask=0x2,name='CPU_CLK_UNHALTED.ONE_THREAD_ACTIVE'/
+461 [23398840022784] INFO perfrun.perfcollector <> - event name: FP_ARITH_INST_RETIRED.SCALAR_SINGLE
+461 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 188, m_cccrVal: 5302c7, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c3, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: event: c7
+461 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+461 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 2
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc7,umask=0x2,name='FP_ARITH_INST_RETIRED.SCALAR_SINGLE'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: FP_ARITH_INST_RETIRED.128B_PACKED_SINGLE
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 189, m_cccrVal: 5308c7, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c4, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: c7
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 8
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc7,umask=0x8,name='FP_ARITH_INST_RETIRED.128B_PACKED_SINGLE'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: FP_ARITH_INST_RETIRED.256B_PACKED_SINGLE
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 18a, m_cccrVal: 5320c7, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c5, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: c7
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 20
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc7,umask=0x20,name='FP_ARITH_INST_RETIRED.256B_PACKED_SINGLE'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: FP_ARITH_INST_RETIRED.SCALAR_DOUBLE
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 18b, m_cccrVal: 5301c7, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c6, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: c7
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 1
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc7,umask=0x1,name='FP_ARITH_INST_RETIRED.SCALAR_DOUBLE'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: FP_ARITH_INST_RETIRED.128B_PACKED_DOUBLE
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 18c, m_cccrVal: 5304c7, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c7, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: c7
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 4
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc7,umask=0x4,name='FP_ARITH_INST_RETIRED.128B_PACKED_DOUBLE'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: FP_ARITH_INST_RETIRED.256B_PACKED_DOUBLE
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 18d, m_cccrVal: 5310c7, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c8, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: c7
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 10
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc7,umask=0x10,name='FP_ARITH_INST_RETIRED.256B_PACKED_DOUBLE'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: UOPS_EXECUTED.X87
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 186, m_cccrVal: 5310b1, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c1, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: b1
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 10
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xb1,umask=0x10,name='UOPS_EXECUTED.X87'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: UOPS_RETIRED.RETIRE_SLOTS
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 187, m_cccrVal: 5302c2, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c2, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: c2
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 2
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc2,umask=0x2,name='UOPS_RETIRED.RETIRE_SLOTS'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: UOPS_EXECUTED.THREAD
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 188, m_cccrVal: 5301b1, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c3, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: b1
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 1
+462 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xb1,umask=0x1,name='UOPS_EXECUTED.THREAD'/
+462 [23398840022784] INFO perfrun.perfcollector <> - event name: FP_ARITH_INST_RETIRED.512B_PACKED_DOUBLE
+462 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 189, m_cccrVal: 5340c7, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c4, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: event: c7
+462 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+462 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 40
+463 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc7,umask=0x40,name='FP_ARITH_INST_RETIRED.512B_PACKED_DOUBLE'/
+463 [23398840022784] INFO perfrun.perfcollector <> - event name: FP_ARITH_INST_RETIRED.512B_PACKED_SINGLE
+463 [23398840022784] INFO perfrun.perfcollector <> - pmu config: cpu, m_cccrAddr: 18a, m_cccrVal: 5380c7, m_escrAddr: ffffffff, m_escrVal: 0, m_dataAddr: c5, m_dataVal: ffffffffffe17b7d, m_extPebsVal: 0, m_adtPebsAvail: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: event: c7
+463 [23398840022784] INFO perfrun.perfcollector <> - config: pc: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: edge: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: any: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config1: offcore_rsp: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: in_tx_cp: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config1: ldlat: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: inv: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: umask: 80
+463 [23398840022784] INFO perfrun.perfcollector <> - config1: frontend: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - config: cmask: 0
+463 [23398840022784] INFO perfrun.perfcollector <> - format: cpu/event=0xc7,umask=0x80,name='FP_ARITH_INST_RETIRED.512B_PACKED_SINGLE'/
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0x3c,name='CPU_CLK_UNHALTED.THREAD'/Du, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/umask=0x3,name='CPU_CLK_UNHALTED.REF_TSC'/Du, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc0,name='INST_RETIRED.ANY'/Du, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0x3c,umask=0x1,name='CPU_CLK_UNHALTED.REF_XCLK'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0x3c,umask=0x2,name='CPU_CLK_UNHALTED.ONE_THREAD_ACTIVE'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc7,umask=0x2,name='FP_ARITH_INST_RETIRED.SCALAR_SINGLE'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc7,umask=0x8,name='FP_ARITH_INST_RETIRED.128B_PACKED_SINGLE'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc7,umask=0x20,name='FP_ARITH_INST_RETIRED.256B_PACKED_SINGLE'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc7,umask=0x1,name='FP_ARITH_INST_RETIRED.SCALAR_DOUBLE'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc7,umask=0x4,name='FP_ARITH_INST_RETIRED.128B_PACKED_DOUBLE'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc7,umask=0x10,name='FP_ARITH_INST_RETIRED.256B_PACKED_DOUBLE'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xb1,umask=0x10,name='UOPS_EXECUTED.X87'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc2,umask=0x2,name='UOPS_RETIRED.RETIRE_SLOTS'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xb1,umask=0x1,name='UOPS_EXECUTED.THREAD'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc7,umask=0x40,name='FP_ARITH_INST_RETIRED.512B_PACKED_DOUBLE'/u, added for counting
+463 [23398840022784] INFO perfrun.perfcollector <> - event: cpu/event=0xc7,umask=0x80,name='FP_ARITH_INST_RETIRED.512B_PACKED_SINGLE'/u, added for counting
+463 [23398785750784] WARN perfrun.perfcollector <> - Perf stat trace pipe capacity: read = 1048576, write = 1048576, at file: vcs/perfrun1/plugins/perfcollector/src/profiler.cpp:765
+465 [23398785750784] INFO perfrun.sdk <> - runCmd: /share/intel/oneapi/vtune/2022.4.0/bin64/amplxe-perf stat -v --log-fd 10 --scale -x ; -e cpu/event=0x3c,name='CPU_CLK_UNHALTED.THREAD'/Du,cpu/umask=0x3,name='CPU_CLK_UNHALTED.REF_TSC'/Du,cpu/event=0xc0,name='INST_RETIRED.ANY'/Du,cpu/event=0x3c,umask=0x1,name='CPU_CLK_UNHALTED.REF_XCLK'/u,cpu/event=0x3c,umask=0x2,name='CPU_CLK_UNHALTED.ONE_THREAD_ACTIVE'/u,cpu/event=0xc7,umask=0x2,name='FP_ARITH_INST_RETIRED.SCALAR_SINGLE'/u,cpu/event=0xc7,umask=0x8,name='FP_ARITH_INST_RETIRED.128B_PACKED_SINGLE'/u,cpu/event=0xc7,umask=0x20,name='FP_ARITH_INST_RETIRED.256B_PACKED_SINGLE'/u,cpu/event=0xc7,umask=0x1,name='FP_ARITH_INST_RETIRED.SCALAR_DOUBLE'/u,cpu/event=0xc7,umask=0x4,name='FP_ARITH_INST_RETIRED.128B_PACKED_DOUBLE'/u,cpu/event=0xc7,umask=0x10,name='FP_ARITH_INST_RETIRED.256B_PACKED_DOUBLE'/u,cpu/event=0xb1,umask=0x10,name='UOPS_EXECUTED.X87'/u,cpu/event=0xc2,umask=0x2,name='UOPS_RETIRED.RETIRE_SLOTS'/u,cpu/event=0xb1,umask=0x1,name='UOPS_EXECUTED.THREAD'/u,cpu/event=0xc7,umask=0x40,name='FP_ARITH_INST_RETIRED.512B_PACKED_DOUBLE'/u,cpu/event=0xc7,umask=0x80,name='FP_ARITH_INST_RETIRED.512B_PACKED_SINGLE'/u /share/intel/oneapi/vtune/2022.4.0/bin64/amplxe-perf-sync dryrun sys
+466 [23398785750784] INFO perfrun.sdk <> - runCmd started PID 2374829
+695 [23398785750784] INFO perfrun.perfcollector <> - Monitor: runCmd RC = true
+696 [23398840022784] INFO perfrun.launcher <> - plugin [aoclprofile] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.tpss <> - initialize tpss controller
+696 [23398840022784] INFO perfrun.tpss <> - configure collection mode: value = cpu:counters:nostack
+696 [23398840022784] INFO perfrun.tpss <> - configure collection mode: value = cpu:stack
+696 [23398840022784] INFO perfrun.tpss <> - default obj-size-min=1024
+696 [23398840022784] INFO perfrun.tpss <> - default hash-table-size=0
+696 [23398840022784] INFO perfrun.launcher <> - plugin [media] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.launcher <> - plugin [parallelfs] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.launcher <> - plugin [power] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.launcher <> - plugin [hwloc] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.launcher <> - plugin [ipmwatch] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.launcher <> - plugin [os_counters] was disabled because it doesn't support the given collection type.
+696 [23398840022784] INFO perfrun.launcher <> - plugin [l0_metrics] was disabled because it doesn't support the given collection type.
+696 [23398973183872] INFO perfrun.launcher <> - set environment variable: LD_LIBRARY_PATH = /share/intel/oneapi/vtune/2022.4.0/lib32/runtime:/share/intel/oneapi/vtune/2022.4.0/lib64/runtime:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ompi/lib:/share/intel/oneapi/tbb/2021.7.0/lib/intel64/gcc4.8:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ompi/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/nccl_rdma_sharp_plugin/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/sharp/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hcoll/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hmc/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ucx/lib/ucx:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ucx/lib:/opt/ibm/lsfsuite/lsf/10.1/linux2.6-glibc2.3-x86_64/lib:/opt/ibm/lsfsuite/ext/ppm/10.2/linux2.6-glibc2.3-x86_64/lib
+696 [23398973183872] INFO perfrun.launcher <> - set environment variable: INTEL_LIBITTNOTIFY32 = /share/intel/oneapi/vtune/2022.4.0/lib32/runtime/libittnotify_collector.so
+696 [23398973183872] INFO perfrun.launcher <> - set environment variable: INTEL_LIBITTNOTIFY64 = /share/intel/oneapi/vtune/2022.4.0/lib64/runtime/libittnotify_collector.so
+696 [23398973183872] INFO perfrun.launcher <> - set environment variable: INTEL_ITTNOTIFY_GROUPS = 
+696 [23398973183872] INFO perfrun.launcher <> - set environment variable: INTEL_JIT_PROFILER32 = /share/intel/oneapi/vtune/2022.4.0/lib32/runtime/libittnotify_collector.so
+696 [23398973183872] INFO perfrun.launcher <> - set environment variable: INTEL_JIT_PROFILER64 = /share/intel/oneapi/vtune/2022.4.0/lib64/runtime/libittnotify_collector.so
+696 [23398973183872] INFO perfrun.launcher <> - set environment variable: OMP_TOOL_LIBRARIES = /share/intel/oneapi/vtune/2022.4.0/lib32/runtime/libittnotify_collector.so:/share/intel/oneapi/vtune/2022.4.0/lib64/runtime/libittnotify_collector.so
+696 [23398973183872] INFO perfrun.launcher <> - set environment variable: ENABLE_JITPROFILING = 1
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: CL_CONFIG_USE_VTUNE = True
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: LD_PRELOAD = libittnotify_collector.so:
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: KMP_FORKJOIN_FRAMES = 0
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: KMP_FORKJOIN_FRAMES_MODE = 0
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: OMP_TOOL = disabled
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: INTEL_MRTE_DATA_DIR = /tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846/data.0
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: INTEL_MRTE_HOST_NAME = b07u26a
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: JAVA_TOOL_OPTIONS = -agentlib:amplxe_tpssmrte_javaprof_1.0 -Dsun.boot.library.path=/share/intel/oneapi/vtune/2022.4.0/lib32/runtime:/share/intel/oneapi/vtune/2022.4.0/lib64/runtime
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: LD_LIBRARY_PATH = /share/intel/oneapi/vtune/2022.4.0/lib32/runtime:/share/intel/oneapi/vtune/2022.4.0/lib64/runtime:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ompi/lib:/share/intel/oneapi/tbb/2021.7.0/lib/intel64/gcc4.8:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ompi/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/nccl_rdma_sharp_plugin/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/sharp/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hcoll/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hmc/lib:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ucx/lib/ucx:/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ucx/lib:/opt/ibm/lsfsuite/lsf/10.1/linux2.6-glibc2.3-x86_64/lib:/opt/ibm/lsfsuite/ext/ppm/10.2/linux2.6-glibc2.3-x86_64/lib
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: CORECLR_ENABLE_PROFILING = 1
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: CORECLR_PROFILER = {AA5E4821-E3B1-479c-B7FF-5AD047D22CED}
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: CORECLR_PROFILER_PATH = /share/intel/oneapi/vtune/2022.4.0/lib64/libamplxe_samplingmrte_clrprof_1.0.so
+697 [23398973183872] INFO perfrun.launcher <> - set environment variable: INTEL_MRTE_PROFILER_MODE = mixed
+697 [23398973183872] INFO perfrun.launcher <> - RpcServer: run RPC server to handle requests
+698 [23398973183872] INFO perfrun.launcher <> - Launcher: command line to start before modification = python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+699 [23398973183872] INFO perfrun.launcher <> - Launcher: command line to start after modification = /share/intel/oneapi/vtune/2022.4.0/bin64/pin -error_file /tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846/data.0/pinerr.tpsslog -detach_reattach -follow_execv -tool_load_option deepbind -t64 /share/intel/oneapi/vtune/2022.4.0/lib64/libtpsstool.so -t /share/intel/oneapi/vtune/2022.4.0/lib32/libtpsstool.so -server_name tpss_ipc.2374713 -prd_dir /share/intel/oneapi/vtune/2022.4.0 -- python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+1300 [23398973183872] INFO perfrun.launcher <> - ProcessCreator object was created
+1302 [23398973183872] INFO perfrun.launcher <> - Launcher: the process was started in suspend mode
+1308 [23398840022784] WARN perfrun.system <> - Could not do anything with /sys/kernel/debug/kvm: boost::filesystem::status: Permission denied: "/sys/kernel/debug/kvm", at file: vcs/perfrun1/plugins/system/src/trace_writer.cpp:787
+1308 [23398840022784] WARN perfrun.system <> - Folder "/var/run/libvirt/qemu/"doesn't exist, at file: vcs/perfrun1/plugins/system/src/trace_writer.cpp:800
+1308 [23398840022784] INFO perfrun.itt <> - start itt controller for pid #2375007
+1316 [23398577071872] WARN perfrun.perfcollector <> - Perf stat trace pipe capacity: read = 1048576, write = 1048576, at file: vcs/perfrun1/plugins/perfcollector/src/profiler.cpp:765
+1318 [23398577071872] INFO perfrun.sdk <> - runCmd: /share/intel/oneapi/vtune/2022.4.0/bin64/amplxe-perf stat -v --log-fd 21 --control=fd:22,25 --scale -x ; -p 2375007 -e cpu/event=0x3c,name='CPU_CLK_UNHALTED.THREAD'/Du,cpu/umask=0x3,name='CPU_CLK_UNHALTED.REF_TSC'/Du,cpu/event=0xc0,name='INST_RETIRED.ANY'/Du,cpu/event=0x3c,umask=0x1,name='CPU_CLK_UNHALTED.REF_XCLK'/u,cpu/event=0x3c,umask=0x2,name='CPU_CLK_UNHALTED.ONE_THREAD_ACTIVE'/u,cpu/event=0xc7,umask=0x2,name='FP_ARITH_INST_RETIRED.SCALAR_SINGLE'/u,cpu/event=0xc7,umask=0x8,name='FP_ARITH_INST_RETIRED.128B_PACKED_SINGLE'/u,cpu/event=0xc7,umask=0x20,name='FP_ARITH_INST_RETIRED.256B_PACKED_SINGLE'/u,cpu/event=0xc7,umask=0x1,name='FP_ARITH_INST_RETIRED.SCALAR_DOUBLE'/u,cpu/event=0xc7,umask=0x4,name='FP_ARITH_INST_RETIRED.128B_PACKED_DOUBLE'/u,cpu/event=0xc7,umask=0x10,name='FP_ARITH_INST_RETIRED.256B_PACKED_DOUBLE'/u,cpu/event=0xb1,umask=0x10,name='UOPS_EXECUTED.X87'/u,cpu/event=0xc2,umask=0x2,name='UOPS_RETIRED.RETIRE_SLOTS'/u,cpu/event=0xb1,umask=0x1,name='UOPS_EXECUTED.THREAD'/u,cpu/event=0xc7,umask=0x40,name='FP_ARITH_INST_RETIRED.512B_PACKED_DOUBLE'/u,cpu/event=0xc7,umask=0x80,name='FP_ARITH_INST_RETIRED.512B_PACKED_SINGLE'/u /share/intel/oneapi/vtune/2022.4.0/bin64/amplxe-perf-sync sync sys
+1319 [23398577071872] INFO perfrun.sdk <> - runCmd started PID 2375035
+1538 [23398840022784] INFO perfrun.tpss <> - start tpss controller for pid #2375007
+1588 [23398973183872] INFO perfrun.launcher <> - Launcher: all plugins were started
+1589 [23398973183872] INFO perfrun.launcher <> - DirectoryMonitor object was created
+1589 [23398973183872] INFO perfrun.launcher <> - DirectoryMonitor: a callback was added
+1589 [23398973183872] INFO perfrun.launcher <> - DirectoryMonitor was started with pingTime = 1000
+1589 [23398973183872] INFO perfrun.launcher <> - DeadlineTimer is going to be constructed
+1589 [23398973183872] INFO perfrun.launcher <> - DeadlineTimer: a callback was added
+1599 [23398973183872] INFO perfrun.launcher <> - Launcher: resume the profiled application and  wait its termination or stop command
+3025791 [23398973183872] INFO perfrun.launcher <> - SignalHandler: signal #2 was caught
+3025805 [23398840022784] INFO perfrun.itt <> - detach itt controller
+3025805 [23398840022784] INFO perfrun.itt <> - detach itt controller done
+3026062 [23398577071872] INFO perfrun.perfcollector <> - Monitor: runCmd RC = true
+3026062 [23398840022784] INFO perfrun.perfcollector <> - Monitor: state = 3, error = 1
+3026062 [23398840022784] INFO perfrun.tpss <> - stop tpss controller
+3026456 [23398840022784] INFO perfrun.sdk <> - De-allocating TMU: /tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846/data.0/systemcollector-2374713-b07u26a.sc
+3026456 [23398840022784] INFO perfrun.system <> - closed the system trace file: /tmp/amplxe-tmp-uid-1674/amplxe-res-2374713-14681779840805846/data.0/systemcollector-2374713-b07u26a.sc
+3027070 [23398973183872] INFO perfrun.launcher <> - Launcher: the profiled application was terminated  with exit code = 130
+3027070 [23398973183872] INFO perfrun.launcher <> - Launcher: all plugins were stopped.
+3027070 [23398973183872] INFO perfrun.launcher <> - DeadlineTimer is going to be destroyed
+3027070 [23398973183872] INFO perfrun.launcher <> - DeadlineTimer was destroyed
+3027070 [23398973183872] INFO perfrun.launcher <> - DirectoryMonitor object was destroyed
+3027070 [23398973183872] WARN perfrun.launcher <> - Stop command is ignored because it is received when collection is already stopped, at file: vcs/perfrun1/launcher/src/command_handler.cpp:226
+3027080 [23398973183872] INFO perfrun.launcher <> - Application exit code: 130
+3027080 [23398973183872] INFO perfrun.launcher <> - Exit code: 4
