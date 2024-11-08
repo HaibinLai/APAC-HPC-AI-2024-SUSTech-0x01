@@ -1,0 +1,24 @@
+#proc page
+  pagesize 10 8
+
+#proc areadef
+  rectangle: 1 1 8 4
+  xrange: 0 2
+  yrange:  0 687.040645
+  yaxis.stubs: inc
+  xaxis.stubvert: yes
+  yaxis.label: GBytes
+  xaxis.stubs: text
+        gadi-cpu-clx-15
+
+#proc getdata
+  data:
+0 687.040645
+
+ #proc bars
+  lenfield: 2
+  color: green
+  barwidth: 3.000000
+  outline: no
+  #saveas A
+

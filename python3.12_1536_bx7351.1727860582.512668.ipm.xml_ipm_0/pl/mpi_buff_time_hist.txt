@@ -1,0 +1,128 @@
+#proc getdata:
+    file: python3.12_1536_bx7351.1727860582.512668.ipm.xml_ipm_0/pl/func_data.txt
+
+#proc page
+  pagesize 10 8
+
+#proc areadef
+rectangle: 1 1 8 4
+xautorange: 1 16777216
+yautorange: 0 8.029340e+02
+yaxis.stubs: inc
+xscaletype: log
+yscaletype: log
+yaxis.label: time (s)
+
+#proc xaxis
+  label: Buffer size (bytes)
+  selflocatingstubs: text
+	1          1
+	4          4
+	16         16
+	64         64
+	256        256
+	1024       1KB
+	4096       4KB
+	16384      16KB
+	65536      64KB
+	262144     256KB
+	1048576    1MB
+	4194304    4MB
+	16777216   16MB
+	67108864   64MB
+	268435456  256MB
+	1073741824 1GB
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Isend
+linedetails: color=red
+legendlabel: MPI_Isend
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=red
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Irecv
+linedetails: color=green
+legendlabel: MPI_Irecv
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=green
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Bcast
+linedetails: color=blue
+legendlabel: MPI_Bcast
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=blue
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Gather
+linedetails: color=yellow
+legendlabel: MPI_Gather
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=yellow
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Gatherv
+linedetails: color=purple
+legendlabel: MPI_Gatherv
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=purple
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Scatter
+linedetails: color=coral
+legendlabel: MPI_Scatter
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=coral
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Scatterv
+linedetails: color=orange
+legendlabel: MPI_Scatterv
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=orange
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Allgather
+linedetails: color=darkblue
+legendlabel: MPI_Allgather
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=darkblue
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Allgatherv
+linedetails: color=limegreen
+legendlabel: MPI_Allgatherv
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=limegreen
+
+#proc lineplot
+xfield: 2
+yfield: 4
+sort: yes
+select: @@1 = MPI_Allreduce
+linedetails: color=skyblue
+legendlabel: MPI_Allreduce
+pointsymbol: shape=circle linecolor=black radius=0.03 fillcolor=skyblue
+
+#proc legend
+  location: max max
+

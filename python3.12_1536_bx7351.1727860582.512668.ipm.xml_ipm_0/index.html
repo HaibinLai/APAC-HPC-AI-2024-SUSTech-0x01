@@ -1,0 +1,151 @@
+<html>
+   <title> IPM profile for 0 </title>   <head>   <STYLE TYPE="text/css">   #unreadable { font-size: 1pt; }   .example { font-family: Garamond, Times, serif; }   </STYLE>   </head>   <body>
+   <table border=1 borderwidth=0 width=100% cellpadding=0 cellspacing=0><tr><td width=25% valign="top" align="left" bgcolor="lightblue">   <table  border=0 borderwidth=0 width=100% cellpadding=0 cellspacing=0>     <tr><td width="100%" height="100%" valign="top" align="left" bgcolor="lightblue">     <a name="top">     <b> 0 </b><br>     </a>     </td></tr>     <tr><td width=100% valign="top" align="left" bgcolor="lightblue">     <font size=-2>     <ul>     <li> <a href="#lb">Load Balance</a>     <li> <a href="#cb">Communication Balance</a>     <li> <a href="#bs">Message Buffer Sizes</a>     <li> <a href="#ct">Communication Topology</a>     <li> <a href="#mu">Memmory Usage</a>     <li> <a href="#hl">Host List</a>      </ul>     </font>     </td></tr>     <br><br>     <tr><td width=100% valign="bottom" align="left" bgcolor="lightblue">     <center>     <a href="http://ipm-hpc.sf.net/">Powered by IPM</a>     </center>     </td></tr>   </table>   </td><td width=75% valign="top">   <table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>   <tr>   <td width=100% colspan=2 bgcolor="lightblue" valign="top">    command: /home/552/bx7351/hoomd/hoomd.py312/bin/python -m hoomd_benchmarks.md_pair_wca --device CPU -v -N 200000 --repeat 1 --warmup_steps 10000 --benchmark_steps 320000    </td>  </tr><tr>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> codename: </td> <td width=50% align=right> python3.12 </td>    </tr>  </table>  </td>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> state: </td> <td width=50% align=right> completed </td>    </tr>  </table>  </td>  </tr><tr>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> username: </td> <td width=50% align=right> bx7351 </td>    </tr>  </table>  </td>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> group: </td> <td width=50% align=right> group </td>    </tr>  </table>  </td>  </tr><tr>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> host: </td> <td width=50% align=right> gadi-cpu-clx-15 </td>    </tr>  </table>  </td>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> mpi_tasks: </td> <td width=50% align=right> 1536 on 1 hosts </td>    </tr>  </table>  </td>  </tr><tr>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> start: </td> <td width=50% align=right> Wed Oct 02 17:16:22 2024 </td>    </tr>  </table>  </td>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> wallclock: </td> <td width=50% align=right> 80.061 s </td>    </tr>  </table>  </td>  </tr><tr>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> stop: </td> <td width=50% align=right> Wed Oct 02 17:17:42 2024 </td>    </tr>  </table>  </td>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> %comm: </td> <td width=50% align=right> 64.17% </td>    </tr>  </table>  </td>  </tr><tr>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> total memory: </td> <td width=50% align=right> 687.0 gbytes </td>    </tr>  </table>  </td>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> total GFlops: </td> <td width=50% align=right> 0  </td>    </tr>  </table>  </td>  </tr><tr>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> switch(send): </td> <td width=50% align=right> N/A </td>    </tr>  </table>  </td>  <td width=50%>  <table width=100%> <tr>    <td width=50% align=left> switch(recv): </td> <td width=50% align=right> N/A </td>    </tr>  </table>  </td>  </tr></table>
+</table>
+<table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+<tr width=100%>
+<td width=50% valign=top>
+<table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+<tr>
+<th valign=top colspan=3 bgcolor="lightblue"> <H3> Computation </H3> </th> </tr>
+<tr>
+<th valign=top bgcolor="lightblue"> Event </th>
+<th valign=top bgcolor="lightblue"> Count </th>
+<th valign=top bgcolor="lightblue"> Pop </th>
+</tr>
+</table>
+</td>
+<td width=50% valign=top>
+<table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+<tr> <th bgcolor="lightblue" colspan="2"> <H3> Communication </H3> </th> </tr>
+<tr> <th bgcolor="lightblue" colspan="2"> % of MPI Time </th> </tr>
+<tr><td><center><img src="img/mpi_pie.png"></center></td></tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+<tr>
+<th align=left bgcolor=lightblue colspan=10>
+Communication Event Statistics
+(% detail, --- error) </th>
+</tr>
+<tr>
+<th align=left bgcolor=lightblue> &nbsp; </th>
+<th width=6% align=left bgcolor=lightblue> Comm Size </th>
+<th align=left bgcolor=lightblue> Buffer Size </th>
+<th align=left bgcolor=lightblue> Ncalls </th>
+<th align=left bgcolor=lightblue> Total Time </th>
+<th align=left bgcolor=lightblue> Avg Time </th>
+<th align=left bgcolor=lightblue> Min Time </th>
+<th align=left bgcolor=lightblue> Max Time </th>
+<th align=left bgcolor=lightblue> %MPI </th>
+<th align=left bgcolor=lightblue> %Wall </th>
+</tr>
+<tr>
+<td align=left>MPI_Waitall</td>
+<td align=right> 0 </td>
+<td align=right> 0 </td>
+<td align=right> 149822208 </td>
+<td align=right> 8.230940e+02 </td>
+<td align=right> 5.493805e-06 </td>
+<td align=right> 0.000000e+00 </td>
+<td align=right> 9.765100e-03 </td>
+<td align=right>  1.05 </td>
+<td align=right>  0.67 </td>
+</tr>
+<tr>
+<td align=left>MPI_Allreduce</td>
+<td align=right> 0 </td>
+<td align=right> 80 </td>
+<td align=right> 15840000 </td>
+<td align=right> 8.029340e+02 </td>
+<td align=right> 5.069028e-05 </td>
+<td align=right> 3.814700e-06 </td>
+<td align=right> 4.967900e-03 </td>
+<td align=right>  1.02 </td>
+<td align=right>  0.65 </td>
+</tr>
+<tr>
+<td align=left>MPI_Allreduce</td>
+<td align=right> 0 </td>
+<td align=right> 4 </td>
+<td align=right> 15761088 </td>
+<td align=right> 7.210750e+02 </td>
+<td align=right> 4.575033e-05 </td>
+<td align=right> 3.814700e-06 </td>
+<td align=right> 8.026100e-03 </td>
+<td align=right>  0.92 </td>
+<td align=right>  0.59 </td>
+</tr>
+<tr>
+<td align=left>MPI_Bcast</td>
+<td align=right> 0 </td>
+<td align=right> 4 </td>
+<td align=right> 2592 </td>
+<td align=right> 1.367755e+01 </td>
+<td align=right> 5.276832e-03 </td>
+<td align=right> 0.000000e+00 </td>
+<td align=right> 1.775500e-01 </td>
+<td align=right>  0.02 </td>
+<td align=right>  0.01 </td>
+</tr>
+</table>
+<td width=50% valign=top>
+  <a name='bs'>
+  <table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+    <tr> <th bgcolor="lightblue"> <H3>Message Buffer Size Distributions: time</H3> </th> </tr>
+    <tr><td><center><img src="img/mpi_buff_time_hist.png"></center></td></tr>
+  </table>
+</td>
+<td width=50% valign=top>
+  <table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+    <tr> <th bgcolor="lightblue"> <H3>Message Buffer Size Distributions: Ncalls</H3> </th> </tr>
+    <tr><td><center><img src="img/mpi_buff_call_hist.png"></center></td></tr>
+  </table>
+</td>
+<td width=50% valign=top>
+  <a name='lb'>
+  <table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+    <tr> <th bgcolor="lightblue"> <H3>Load balance by MPI time: memory, flops, timings</H3> </th> </tr>
+    <tr><td><center><img src="img/load_multi_mtime.png"</center></td></tr>
+    <tr><td><a href="img/load_multi_rank.png">Sorted by MPI rank</a>,<a href="img/load_multi_all.png"> Sorted by All indices</a></td></tr>
+  </table>
+</td>
+<td width=50% valign=top>
+  <a name='cb'>
+  <table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+    <tr> <th bgcolor="lightblue"> <H3>Communication balance by task (sorted by MPI time)</H3> </th> </tr>
+    <tr><td><center><img src="img/mpi_stack_bymtime.png"></center></td></tr>
+    <tr>
+<td>
+<a href="img/mpi_stack_byrank.png">Balance sorted by MPI rank</a>
+</td>
+</tr>
+  </table>
+</td>
+<td width=50% valign=top>
+  <a name='ct'>
+  <table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+    <tr> <th bgcolor="lightblue"> <H3>Communication Topology : point to point data flow (data sent)</H3> </th> </tr>
+    <tr><td><center><img src="img/mpi_data_topo_send.png"></center></td></tr>
+  </table>
+</td>
+<td width=50% valign=top>
+  <a name='mu'>
+  <table border=1 borderwidth=1 width=100% cellpadding=0 cellspacing=0>
+    <tr> <th bgcolor="lightblue"> <H3>Memory Usage by host</H3> </th> </tr>
+    <tr><td><center><img src="img/mem_stack_byhost.png"></center></td></tr>
+  </table>
+</td>
+<a name='hl'>
+<table border=1 width=100% cellpadding=0 cellspacing=0>
+<tr>
+<th valign=top align=left bgcolor=lightblue> Hostlist </th>
+<th valign=top align=left bgcolor=lightblue> Ranks </th>
+</tr>
+<tr><td> gadi-cpu-clx-15 </td><td>0-1535</td></tr>
+</table>
+</table>
+</body>
+</html>
