@@ -1,0 +1,34 @@
+#proc page
+  pagesize 10 8
+
+#proc areadef
+    rectangle: 0 0 2.5 2
+    xrange: 0 1
+    yrange: 0 1
+
+#proc getdata
+data:
+MPI_Allreduce 63.457225 red MPI_Allreduce
+MPI_Waitall 31.774918 green MPI_Waitall
+MPI_Isend 2.247830 blue MPI_Isend
+MPI_Bcast 1.407708 yellow MPI_Bcast
+MPI_Irecv 0.679918 purple MPI_Irecv
+MPI_Scatter 0.315953 coral MPI_Scatter
+MPI_Scatterv 0.096915 orange MPI_Scatterv
+MPI_Allgatherv 0.012123 darkblue MPI_Allgatherv
+MPI_Gather 0.005372 limegreen MPI_Gather
+MPI_Allgather 0.001850 skyblue MPI_Allgather
+MPI_Gatherv 0.000172 claret MPI_Gatherv
+MPI_Comm_size 0.000011 teal MPI_Comm_size
+MPI_Comm_rank 0.000005 magenta MPI_Comm_rank
+
+#proc pie
+ firstslice: 0
+ datafield: 2
+ labelfield: 1
+ exactcolorfield: 3
+ center: 0.5(s) 0.6(s)
+ radius: 0.4(s)
+
+#proc legend
+ location: 1.1(s) 1.2(s)

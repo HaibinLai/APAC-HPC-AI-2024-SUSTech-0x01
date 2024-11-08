@@ -1,0 +1,128 @@
+#proc page
+  pagesize 10 8
+
+#proc areadef
+  rectangle: 1 1 7 4
+  xrange: -1 1536
+  yrange:  0 5.258897e+01
+  xaxis.stubs: inc
+  yaxis.stubs: inc
+  xaxis.stubrange: 0 1536
+  xaxis.stubvert: yes
+  xaxis.label: MPI rank
+  xaxis.labeldistance: 0.5
+  yaxis.label: time in seconds
+
+#proc getdata
+   file: python3.12_1536_bx7351.1727860582.512668.ipm.xml_ipm_0/pl/task_data.txt
+
+#proc bars
+   lenfield: 4
+   locfield: 2
+   color: red
+   legendlabel: MPI_Allreduce
+   barwidth: 0.004554
+   outline: no
+   #saveas A
+
+#proc bars
+   #clone: A
+   lenfield: 5
+   color: green
+   legendlabel: MPI_Waitall
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 6
+   color: blue
+   legendlabel: MPI_Isend
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 7
+   color: yellow
+   legendlabel: MPI_Bcast
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 8
+   color: purple
+   legendlabel: MPI_Irecv
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 9
+   color: coral
+   legendlabel: MPI_Scatter
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 10
+   color: orange
+   legendlabel: MPI_Scatterv
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 11
+   color: darkblue
+   legendlabel: MPI_Allgatherv
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 12
+   color: limegreen
+   legendlabel: MPI_Gather
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 13
+   color: skyblue
+   legendlabel: MPI_Allgather
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 14
+   color: claret
+   legendlabel: MPI_Gatherv
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 15
+   color: teal
+   legendlabel: MPI_Comm_size
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 16
+   color: magenta
+   legendlabel: MPI_Comm_rank
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 17
+   color: brightblue
+   legendlabel: MPI_Init
+   stackfields: *
+
+#proc bars
+   #clone: A
+   lenfield: 18
+   color: black
+   legendlabel: MPI_Finalize
+   stackfields: *
+
+#proc legend
+  location: max+0.5 max
+  seglen: 0.3
