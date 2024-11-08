@@ -1,0 +1,59 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@a08u07b>
+Subject: Job 175330: <#!/bin/bash;#BSUB -q ssc-cpu;#BSUB -n 24;#BSUB -e %J.err;#BSUB -o %J.out;#BSUB -R "span[ptile=24]"; hostfile=`echo $LSB_DJOB_HOSTFILE`;NP=`cat $hostfile | wc -l`;cd $LS_SUBCWD; cd /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks; source /work/apac4/miniforge3/etc/profile.d/conda.sh;conda activate apac-hpc-xbx; time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n 24 python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v> in cluster <qmhpc> Exited
+
+Job <#!/bin/bash;#BSUB -q ssc-cpu;#BSUB -n 24;#BSUB -e %J.err;#BSUB -o %J.out;#BSUB -R "span[ptile=24]"; hostfile=`echo $LSB_DJOB_HOSTFILE`;NP=`cat $hostfile | wc -l`;cd $LS_SUBCWD; cd /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks; source /work/apac4/miniforge3/etc/profile.d/conda.sh;conda activate apac-hpc-xbx; time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n 24 python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Sun Jul 14 23:36:03 2024
+Job was executed on host(s) <24*a08u07b>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Sun Jul 14 23:36:03 2024
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc> was used as the working directory.
+Started at Sun Jul 14 23:36:03 2024
+Terminated at Sun Jul 14 23:36:07 2024
+Results reported at Sun Jul 14 23:36:07 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 24
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+cd /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n 24 python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   0.74 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   2 sec.
+    Turnaround time :                            4 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <175330.err> for stderr output of this job.
+
