@@ -1,0 +1,77 @@
+Loading tbb version 2021.7.0
+Loading mpi version 2021.7.0
+Loading openmpi/4.1.2_gcc-11.2.0
+  ERROR: openmpi/4.1.2_gcc-11.2.0 cannot be loaded due to a conflict.
+    HINT: Might try "module unload mpi" first.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@b03u14a>
+Subject: Job 204932: <benchmark-xbx> in cluster <qmhpc> Exited
+
+Job <benchmark-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Sun Sep 22 21:46:04 2024
+Job was executed on host(s) <128*b03u14a>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Sun Sep 22 21:46:04 2024
+                            <128*a02u21s>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Sun Sep 22 21:46:04 2024
+Terminated at Sun Sep 22 21:46:21 2024
+Results reported at Sun Sep 22 21:46:21 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 256
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=128]"
+#BSUB -J benchmark-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+
+module load tbb/2021.7.0
+module load mpi/2021.7.0
+module load gcc/11.2.0
+module load openmpi/4.1.2_gcc-11.2.0
+# source /work/share/intel/oneapi/setvars.sh intel64
+# module load openmpi/4.1.1_oneapi
+
+cd /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks
+
+mpirun  --hostfile $LSB_DJOB_HOSTFILE -n $NP python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+
+
+------------------------------------------------------------
+
+Exited with exit code 255.
+
+Resource usage summary:
+
+    CPU time :                                   18.00 sec.
+    Max Memory :                                 71 MB
+    Average Memory :                             4.33 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   74 MB
+    Max Processes :                              7
+    Max Threads :                                9
+    Run time :                                   6 sec.
+    Turnaround time :                            17 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <204932.err> for stderr output of this job.
+

@@ -1,0 +1,122 @@
+Loading tbb version 2021.7.0
+[1727017480.846027] [b07u31a:3969470:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.846034] [b07u31a:3969438:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.846106] [b07u31a:3969468:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.846119] [b07u31a:3969447:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.846140] [b07u31a:3969469:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.846174] [b07u31a:3969472:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.846559] [b07u31a:3969449:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.846970] [b07u31a:3969445:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.848790] [b07u31a:3969471:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.848816] [b07u31a:3969464:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.848847] [b07u31a:3969462:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.848903] [b07u31a:3969466:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.848986] [b07u31a:3969440:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.849102] [b07u31a:3969465:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.849163] [b07u31a:3969467:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.849228] [b07u31a:3969451:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.849278] [b07u31a:3969463:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.849368] [b07u31a:3969439:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.849386] [b07u31a:3969453:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.849443] [b07u31a:3969455:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.854947] [b07u31a:3969460:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.854969] [b07u31a:3969458:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.855836] [b07u31a:3969443:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017480.857775] [b07u31a:3969459:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.092362] [b07u31a:3969467:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.093186] [b07u31a:3969449:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.093459] [b07u31a:3969464:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.093490] [b07u31a:3969471:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.094047] [b07u31a:3969439:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.094365] [b07u31a:3969470:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.094540] [b07u31a:3969455:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.094678] [b07u31a:3969453:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.095049] [b07u31a:3969463:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.095342] [b07u31a:3969462:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.095432] [b07u31a:3969459:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.096086] [b07u31a:3969440:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.096426] [b07u31a:3969445:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.097192] [b07u31a:3969468:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.097419] [b07u31a:3969438:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.097615] [b07u31a:3969447:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.097797] [b07u31a:3969460:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.097907] [b07u31a:3969465:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.097928] [b07u31a:3969472:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.097984] [b07u31a:3969443:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.098060] [b07u31a:3969458:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.098231] [b07u31a:3969469:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.104989] [b07u31a:3969451:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727017481.107786] [b07u31a:3969466:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+Using existing initial_configuration_cache/hard_sphere_2000000_1.0_3.gsd
+notice(2): Using domain decomposition: n_x = 2 n_y = 3 n_z = 4.
+Running MDPairWCA benchmark
+.. warming up for 1000 steps
+.. running for 100000 steps 1 time(s)
+.. 15.686295291992161 time steps per second
+15.686295291992161
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@b07u31a>
+Subject: Job 204991: <hpcx-xbx> in cluster <qmhpc> Done
+
+Job <hpcx-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Sun Sep 22 23:04:36 2024
+Job was executed on host(s) <24*b07u31a>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Sun Sep 22 23:04:37 2024
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Sun Sep 22 23:04:37 2024
+Terminated at Mon Sep 23 00:52:08 2024
+Results reported at Mon Sep 23 00:52:08 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 24
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+#BSUB -J hpcx-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+source /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hpcx-init.sh
+module use /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/modulefiles
+module load hpcx
+module load tbb/latest
+
+mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   154080.06 sec.
+    Max Memory :                                 10122 MB
+    Average Memory :                             10067.53 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              28
+    Max Threads :                                104
+    Run time :                                   6449 sec.
+    Turnaround time :                            6452 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <204991.err> for stderr output of this job.
+

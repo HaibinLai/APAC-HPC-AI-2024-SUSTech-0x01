@@ -1,0 +1,3 @@
+vtune: Analyzing data in the node-wide mode. The hostname (b07u33a) will be added to the result path/name.
+vtune: Warning: Only user space will be profiled due to credentials lack. Consider changing /proc/sys/kernel/perf_event_paranoid file for enabling kernel space profiling.
+vtune: Collection started.

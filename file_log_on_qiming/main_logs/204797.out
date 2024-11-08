@@ -1,0 +1,69 @@
+72 total processes failed to start
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@b03u12a>
+Subject: Job 204797: <hpcx-xbx> in cluster <qmhpc> Exited
+
+Job <hpcx-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Sun Sep 22 15:36:45 2024
+Job was executed on host(s) <24*b03u12a>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Sun Sep 22 15:36:47 2024
+                            <24*b07u26a>
+                            <24*b07u27a>
+                            <24*b03u38a>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Sun Sep 22 15:36:47 2024
+Terminated at Sun Sep 22 15:36:57 2024
+Results reported at Sun Sep 22 15:36:57 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 96
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+#BSUB -J hpcx-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+
+source /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hpcx-init.sh
+module use /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/modulefiles
+module load hpcx
+module load vtune/latest
+
+mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP vtune -collect hotspots -r Haibin -data-limit=0 -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+
+------------------------------------------------------------
+
+Exited with exit code 134.
+
+Resource usage summary:
+
+    CPU time :                                   6.00 sec.
+    Max Memory :                                 25 MB
+    Average Memory :                             10.33 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   8 sec.
+    Turnaround time :                            12 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <204797.err> for stderr output of this job.
+

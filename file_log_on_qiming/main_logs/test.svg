@@ -1,0 +1,378 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1200" height="696"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+    .func_g:hover { stroke:black; stroke-width:0.5; cursor:pointer; }
+</style>
+<svg class="func_g" x="0.02398507135731918" y="312" width="1198.976004767341" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213:main 100.00% (1 1 6.3896e-05 83.491565495)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="0.8872819693135158" y="288" width="1151.8053194839258" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108:execute 96.07% (1 1 0.00017530100000000002 80.209537901)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">execute</text>
+</g></svg>
+<svg class="func_g" x="0.8874719008689845" y="264" width="395.7144331548779" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103:run 33.06% (2 2 6.629800000000001e-05 27.602476172000003)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="0.8874719008689845" y="240" width="395.7134802920505" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485:run 33.06% (1 1 27.377564170753498 27.602409874000003)</title>
+    <rect height="100%" width="100%" fill="rgb(44, 255, 210)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="0.8874719008689845" y="216" width="2.2314501634790838" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operations.py:198:_schedule 0.27% (0 0 1.2781054761424907e-05 0.22483685665052333)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_schedule</text>
+</g></svg>
+<svg class="func_g" x="0.8890209854118218" y="192" width="2.2296385646523698" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operation.py:299:_attach 0.27% (0 0 4.345008008016985e-06 0.22471080977834393)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach</text>
+</g></svg>
+<svg class="func_g" x="0.8911276187512023" y="168" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/integrate.py:287:_attach_hook 0.13% (0 0 7.446626559041364e-06 0.11098479151827892)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="0.8911276187512023" y="144" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/integrate.py:45:_attach_hook 0.13% (0 0 9.576033577730392e-06 0.11097531744431785)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="0.8911276187512023" y="120" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/data/syncedlist.py:233:_sync 0.13% (1 1 8.426221874193672e-06 0.11096305454504947)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_sync</text>
+</g></svg>
+<svg class="func_g" x="0.8913432320755448" y="96" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/data/syncedlist.py:182:_register_item 0.13% (1 1 1.946291704942467e-06 0.11093777356291797)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_register_item</text>
+</g></svg>
+<svg class="func_g" x="0.8913473940892893" y="72" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operation.py:299:_attach 0.13% (1 1 6.3730450408494145e-06 0.11093403702693505)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach</text>
+</g></svg>
+<svg class="func_g" x="2.486316093252599" y="168" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/methods/methods.py:155:_attach_hook 0.13% (0 0 1.5245430825650082e-05 0.10803445366740791)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="2.4870903098970625" y="144" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611:_get_group 0.13% (0 0 0.10796124240724905 0.10796531313217726)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_group</text>
+</g></svg>
+<svg class="func_g" x="397.601905055747" y="264" width="755.0879686555393" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143:run_benchmark 63.01% (1 1 0.00011648800000000001 52.606858724000006)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run_benchmark</text>
+</g></svg>
+<svg class="func_g" x="397.60590441210064" y="240" width="755.0822886169129" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103:run 63.01% (1 1 3.9158e-05 52.606463520000005)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="397.60590441210064" y="216" width="755.0817258216159" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485:run 63.01% (2 2 52.1778991522465 52.606424362000006)</title>
+    <rect height="100%" width="100%" fill="rgb(44, 255, 210)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="397.60590441210064" y="192" width="5.158702786482486" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operations.py:198:_schedule 0.51% (1 1 2.4358945238575494e-05 0.42850834934948373)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_schedule</text>
+</g></svg>
+<svg class="func_g" x="397.60885675572587" y="168" width="5.155250126476101" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operation.py:299:_attach 0.51% (1 1 8.280991991983149e-06 0.428268121221663)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach</text>
+</g></svg>
+<svg class="func_g" x="397.61287171122916" y="144" width="2.0400813948544028" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/integrate.py:287:_attach_hook 0.25% (0 0 1.4192253452451984e-05 0.2115218586706905)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="397.61287171122916" y="120" width="2.0398218822167835" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/integrate.py:45:_attach_hook 0.25% (0 0 1.8250612478925754e-05 0.21150380237931926)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="397.61287171122916" y="96" width="2.039485978428501" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/data/syncedlist.py:233:_sync 0.25% (1 1 1.6059228368307825e-05 0.21148043096770103)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_sync</text>
+</g></svg>
+<svg class="func_g" x="397.6132826407852" y="72" width="2.0387934849582674" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/data/syncedlist.py:182:_register_item 0.25% (1 1 3.7093662412022874e-06 0.2114322488676464)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_register_item</text>
+</g></svg>
+<svg class="func_g" x="397.61329057301515" y="48" width="2.0386911342364478" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operation.py:299:_attach 0.25% (1 1 1.214615366656319e-05 0.21142512754025292)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach</text>
+</g></svg>
+<svg class="func_g" x="397.6152725793425" y="24" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/integrate.py:287:_attach_hook 0.13% (0 0 7.0060891382387175e-06 0.10441900586807489)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="399.11609077615117" y="24" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/methods/methods.py:155:_attach_hook 0.12% (0 0 1.4343521387637166e-05 0.10164320802092422)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="399.1168191906594" y="0" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611:_get_group 0.12% (0 0 0.10157432788969581 0.10157815779327405)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_group</text>
+</g></svg>
+<svg class="func_g" x="400.65308313516124" y="144" width="1.9592661129921987" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/methods/methods.py:155:_attach_hook 0.25% (0 0 2.9055709528866737e-05 0.20589891756871126)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="400.6545586863734" y="120" width="1.9573722241817628" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611:_get_group 0.25% (0 0 0.20575938690317971 0.20576714514907243)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_group</text>
+</g></svg>
+<svg class="func_g" x="1153.6926014532394" y="288" width="45.20523685668971" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36:__init__ 3.85% (1 1 9.852e-06 3.214853917)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="1153.6926014532394" y="264" width="45.20509525958911" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73:__init__ 3.85% (1 1 7.471e-06 3.2148440650000003)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="1153.6926014532394" y="240" width="45.204987883225066" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86:make_simulation 3.85% (1 1 0.000171137 3.2148365940000003)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">make_simulation</text>
+</g></svg>
+<svg class="func_g" x="1153.7916369547052" y="216" width="45.101800979554234" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188:create_state_from_gsd 3.84% (1 1 0.08417337200000001 3.2076570870000003)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">create_state_from_gsd</text>
+</g></svg>
+<svg class="func_g" x="1153.7964086993843" y="192" width="43.8688214745024" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251:__init__ 3.74% (1 1 3.121031787 3.121869214)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="1.1364190639897989" y="360" width="1" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188:create_state_from_gsd 0.10% (1 1 0.08417337200000001 3.2076570870000003)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">create_state_from_gsd</text>
+</g></svg>
+<svg class="func_g" x="1.1364190639897989" y="384" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86:make_simulation 0.10% (1 1 0.08417337200000001 3.2076570870000003)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">make_simulation</text>
+</g></svg>
+<svg class="func_g" x="1.1364190639897989" y="408" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73:__init__ 0.00% (1 1 0.000171137 3.2148365940000003)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="1.1364190639897989" y="432" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36:__init__ 0.00% (1 1 7.471e-06 3.2148440650000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="1.1364190639897989" y="456" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213:main 0.00% (1 1 9.852e-06 3.214853917)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="2.3506120889217312" y="360" width="1142.404683691855" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485:run 95.28% (3 3 79.555463323 80.208834236)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="2.3506120889217312" y="384" width="1142.404683691855" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103:run 95.28% (3 3 79.555463323 80.208834236)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="2.3506120889217312" y="408" width="392.48233074455516" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108:execute 0.00% (2 2 6.629800000000001e-05 27.602476172000003)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">execute</text>
+</g></svg>
+<svg class="func_g" x="2.3506120889217312" y="432" width="392.48233074455516" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213:main 0.00% (1 1 0.00017530100000000002 80.209537901)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="395.8329428334769" y="408" width="748.9223529472998" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143:run_benchmark 0.00% (1 1 3.9158e-05 52.606463520000005)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run_benchmark</text>
+</g></svg>
+<svg class="func_g" x="395.8329428334769" y="432" width="748.9223529472998" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108:execute 0.00% (1 1 0.00011648800000000001 52.606858724000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">execute</text>
+</g></svg>
+<svg class="func_g" x="395.8329428334769" y="456" width="748.9223529472998" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213:main 0.00% (1 1 0.00017530100000000002 80.209537901)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="1145.76759989619" y="360" width="43.85678562034412" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251:__init__ 3.74% (1 1 3.121031787 3.121869214)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="1145.76759989619" y="384" width="43.85678562034412" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188:create_state_from_gsd 3.74% (1 1 3.121031787 3.121869214)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">create_state_from_gsd</text>
+</g></svg>
+<svg class="func_g" x="1145.76759989619" y="408" width="43.85678562034412" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86:make_simulation 0.10% (1 1 0.08417337200000001 3.2076570870000003)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">make_simulation</text>
+</g></svg>
+<svg class="func_g" x="1145.76759989619" y="432" width="43.85678562034412" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73:__init__ 0.00% (1 1 0.000171137 3.2148365940000003)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="1145.76759989619" y="456" width="43.85678562034412" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36:__init__ 0.00% (1 1 7.471e-06 3.2148440650000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="1145.76759989619" y="480" width="43.85678562034412" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213:main 0.00% (1 1 9.852e-06 3.214853917)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="1190.625053604194" y="360" width="8.115865252373514" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611:_get_group 0.76% (2 2 0.6342609 0.6342851230000001)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_group</text>
+</g></svg>
+<svg class="func_g" x="1190.625053604194" y="384" width="8.115830659275133" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/methods/methods.py:155:_attach_hook 0.76% (1 1 0.6342588010000001 0.6342827160000001)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="1190.625053604194" y="408" width="8.115830659275133" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operation.py:299:_attach 0.00% (1 1 8.9565e-05 0.634688908)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach</text>
+</g></svg>
+<svg class="func_g" x="1190.625053604194" y="432" width="3.5019728187964105" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/data/syncedlist.py:182:_register_item 0.00% (3 3 3.7457000000000004e-05 0.6520048420000001)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_register_item</text>
+</g></svg>
+<svg class="func_g" x="1190.6251488590863" y="456" width="3.501877563903922" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/data/syncedlist.py:233:_sync 0.00% (3 3 1.1439e-05 0.652017983)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_sync</text>
+</g></svg>
+<svg class="func_g" x="1190.6251488590863" y="480" width="3.4997156997024153" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/integrate.py:45:_attach_hook 0.00% (3 3 4.9503000000000004e-05 0.651894072)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="1190.6251488590863" y="504" width="3.4997156997024153" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/integrate.py:287:_attach_hook 0.00% (1 1 5.6258e-05 0.651966115)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach_hook</text>
+</g></svg>
+<svg class="func_g" x="1190.6251488590863" y="528" width="3.4997156997024153" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operation.py:299:_attach 0.00% (1 1 4.3748e-05 0.652021774)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_attach</text>
+</g></svg>
+<svg class="func_g" x="1190.6251488590863" y="552" width="1.2222437569921438" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/data/syncedlist.py:182:_register_item 0.00% (3 3 3.7457000000000004e-05 0.6520048420000001)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_register_item</text>
+</g></svg>
+<svg class="func_g" x="1192.8993007908712" y="552" width="1.2255637679177753" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operations.py:198:_schedule 0.00% (1 1 1.2626e-05 0.652978931)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_schedule</text>
+</g></svg>
+<svg class="func_g" x="1192.8993007908712" y="576" width="1.2255637679177753" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485:run 0.00% (1 1 3.714e-05 0.653345206)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="1192.8993007908712" y="600" width="1.2255637679177753" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103:run 95.28% (3 3 79.555463323 80.208834236)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="1193.6651888715403" y="624" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143:run_benchmark 0.00% (1 1 3.9158e-05 52.606463520000005)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run_benchmark</text>
+</g></svg>
+<svg class="func_g" x="1193.6651888715403" y="648" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108:execute 0.00% (1 1 0.00011648800000000001 52.606858724000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">execute</text>
+</g></svg>
+<svg class="func_g" x="1193.6651888715403" y="672" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213:main 0.00% (1 1 0.00017530100000000002 80.209537901)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="1195.2321855403256" y="432" width="3.508698723143435" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/operations.py:198:_schedule 0.00% (1 1 1.2626e-05 0.652978931)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_schedule</text>
+</g></svg>
+<svg class="func_g" x="1195.2321855403256" y="456" width="3.508698723143435" height="23"><g>
+    <title>/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485:run 0.00% (1 1 3.714e-05 0.653345206)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="1195.2321855403256" y="480" width="3.508698723143435" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103:run 95.28% (3 3 79.555463323 80.208834236)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run</text>
+</g></svg>
+<svg class="func_g" x="1195.2321855403256" y="504" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108:execute 0.00% (2 2 6.629800000000001e-05 27.602476172000003)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">execute</text>
+</g></svg>
+<svg class="func_g" x="1195.2321855403256" y="528" width="1" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213:main 0.00% (1 1 0.00017530100000000002 80.209537901)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+<svg class="func_g" x="1196.7837737990683" y="504" width="1.9571104644009232" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143:run_benchmark 0.00% (1 1 3.9158e-05 52.606463520000005)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">run_benchmark</text>
+</g></svg>
+<svg class="func_g" x="1196.7837737990683" y="528" width="1.9571104644009223" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108:execute 0.00% (1 1 0.00011648800000000001 52.606858724000006)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">execute</text>
+</g></svg>
+<svg class="func_g" x="1196.7837737990683" y="552" width="1.9571104644009223" height="23"><g>
+    <title>/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213:main 0.00% (1 1 0.00017530100000000002 80.209537901)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">main</text>
+</g></svg>
+</svg>

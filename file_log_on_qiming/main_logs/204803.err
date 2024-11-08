@@ -1,0 +1,10 @@
+[mpiexec@b05u23a] match_arg (../../../../../src/pm/i_hydra/libhydra/arg/hydra_arg.c:91): unrecognized argument x
+[mpiexec@b05u23a] Similar arguments:
+[mpiexec@b05u23a] 	 demux
+[mpiexec@b05u23a] 	 s
+[mpiexec@b05u23a] 	 n
+[mpiexec@b05u23a] 	 enable-x
+[mpiexec@b05u23a] 	 f
+[mpiexec@b05u23a] HYD_arg_parse_array (../../../../../src/pm/i_hydra/libhydra/arg/hydra_arg.c:128): argument matching returned error
+[mpiexec@b05u23a] mpiexec_get_parameters (../../../../../src/pm/i_hydra/mpiexec/mpiexec_params.c:1359): error parsing input array
+[mpiexec@b05u23a] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1783): error parsing parameters

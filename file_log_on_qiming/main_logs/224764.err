@@ -1,0 +1,13 @@
+Warning: Permanently added 'a07u17a,10.10.1.162' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'a07u12b,10.10.1.177' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'a07u12a,10.10.1.172' (ECDSA) to the list of known hosts.
+[a08u07a:2797432] *** Process received signal ***
+[a08u07a:2797432] Signal: Segmentation fault (11)
+[a08u07a:2797432] Signal code: Address not mapped (1)
+[a08u07a:2797432] Failing at address: (nil)
+[a08u07a:2797432] [ 0] /lib64/libpthread.so.0(+0x12ce0)[0x14da36cbbce0]
+[a08u07a:2797432] *** End of error message ***
+/work/apac4/.lsbatch/1730191461.224764.shell: line 20: 2797432 Segmentation fault      (core dumped) mpirun --mca coll_tuned_verbose 1 --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+real 2.32
+user 0.18
+sys 0.08

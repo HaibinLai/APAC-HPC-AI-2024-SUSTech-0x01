@@ -1,0 +1,74 @@
+Loading tbb/2021.7.0
+  ERROR: tbb/2021.7.0 cannot be loaded due to a conflict.
+    HINT: Might try "module unload tbb" first.
+Using existing initial_configuration_cache/hard_sphere_2000000_1.0_3.gsd
+notice(2): Using domain decomposition: n_x = 4 n_y = 4 n_z = 8.
+Running MDPairWCA benchmark
+.. warming up for 1000 steps
+.. running for 100000 steps 1 time(s)
+.. 75.72928650889365 time steps per second
+75.72928650889365
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@b03u14a>
+Subject: Job 210918: <benchmark-xbx> in cluster <qmhpc> Done
+
+Job <benchmark-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Sat Oct  5 15:50:32 2024
+Job was executed on host(s) <128*b03u14a>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Sat Oct  5 15:50:33 2024
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Sat Oct  5 15:50:33 2024
+Terminated at Sat Oct  5 16:13:48 2024
+Results reported at Sat Oct  5 16:13:48 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 128
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=128]"
+#BSUB -J benchmark-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+# cd /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+module load tbb/2021.7.0
+module load gcc/11.2.0
+module load openmpi/4.1.2_gcc-11.2.0
+
+time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n 128 python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   170049.77 sec.
+    Max Memory :                                 43014 MB
+    Average Memory :                             41404.66 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   74 MB
+    Max Processes :                              132
+    Max Threads :                                8460
+    Run time :                                   1394 sec.
+    Turnaround time :                            1396 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <210918.err> for stderr output of this job.
+

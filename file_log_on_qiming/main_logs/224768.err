@@ -1,0 +1,11 @@
+[a08u08b:2837896] Warning: could not find environment variable "LD_PRELOAD"
+[a08u08b:2837896] *** Process received signal ***
+[a08u08b:2837896] Signal: Segmentation fault (11)
+[a08u08b:2837896] Signal code: Address not mapped (1)
+[a08u08b:2837896] Failing at address: (nil)
+[a08u08b:2837896] [ 0] /lib64/libpthread.so.0(+0x12ce0)[0x154c05cabce0]
+[a08u08b:2837896] *** End of error message ***
+/work/apac4/.lsbatch/1730191670.224768.shell: line 20: 2837896 Segmentation fault      (core dumped) mpirun --hostfile $LSB_DJOB_HOSTFILE -np $NP -x LD_PRELOAD -x LD_LIBRARY_PATH -x PATH python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+real 1.41
+user 0.17
+sys 0.08

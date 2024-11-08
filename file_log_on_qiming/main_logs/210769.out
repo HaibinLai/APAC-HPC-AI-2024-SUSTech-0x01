@@ -1,0 +1,65 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@b03u16a>
+Subject: Job 210769: <hpcx-xbx> in cluster <qmhpc> Exited
+
+Job <hpcx-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Fri Oct  4 20:40:30 2024
+Job was executed on host(s) <24*b03u16a>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Fri Oct  4 20:40:31 2024
+                            <24*b03u18a>
+                            <24*b03u12a>
+                            <24*b03u30a>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Fri Oct  4 20:40:31 2024
+Terminated at Fri Oct  4 20:41:04 2024
+Results reported at Fri Oct  4 20:41:04 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 96
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+#BSUB -J hpcx-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+source /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hpcx-init.sh
+module use /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/modulefiles
+module load hpcx
+
+time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 2000 -v
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   0.85 sec.
+    Max Memory :                                 24 MB
+    Average Memory :                             14.50 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   2 MB
+    Max Processes :                              7
+    Max Threads :                                11
+    Run time :                                   32 sec.
+    Turnaround time :                            34 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <210769.err> for stderr output of this job.
+

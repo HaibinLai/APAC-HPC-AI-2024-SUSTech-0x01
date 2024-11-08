@@ -1,0 +1,5 @@
+vtune: Analyzing data in the node-wide mode. The hostname (b07u26a) will be added to the result path/name.
+vtune: Warning: Only user space will be profiled due to credentials lack. Consider changing /proc/sys/kernel/perf_event_paranoid file for enabling kernel space profiling.
+vtune: Collection started.
+mpirun: Forwarding signal 18 to job
+mpirun: Forwarding signal 18 to job

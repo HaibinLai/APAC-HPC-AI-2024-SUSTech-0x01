@@ -1,0 +1,658 @@
+[1728460763.733726] [a08u18b:903869:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.733781] [a08u18b:903870:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.733801] [a08u18b:903867:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.733810] [a08u18b:903872:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.733849] [a08u18b:903863:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.733883] [a08u18b:903868:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.733952] [a08u18b:903866:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.733962] [a08u18b:903864:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.733983] [a08u18b:903865:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.735814] [a08u19b:3426252:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.735873] [a08u19b:3426248:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.735925] [a08u19b:3426251:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.735954] [a08u19b:3426250:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.736015] [a08u19b:3426254:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.736099] [a08u19b:3426255:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.736151] [a08u18b:903873:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.736408] [a08u19b:3426249:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.737525] [a08u19a:1743994:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.737964] [a08u18a:794947:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.737588] [a08u19a:1744000:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.738142] [a08u18a:794943:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.737564] [a08u19a:1743995:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.738192] [a08u19a:1743999:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.739050] [a08u19a:1743998:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.739245] [a08u19b:3426258:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.737977] [a08u18a:794946:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.742535] [a08u19a:1743997:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.742730] [a08u18b:903871:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.743028] [a08u18b:903877:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.745564] [a08u16b:1702340:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.745583] [a08u16b:1702336:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.746706] [a08u16b:1702334:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744178] [a08u19a:1744006:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744191] [a08u15b:781938:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744262] [a08u19b:3426256:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.741125] [a08u18b:903874:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.746599] [a08u19a:1744007:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744209] [a08u15b:781942:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.745965] [a08u19b:3426253:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.742594] [a08u18b:903876:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744221] [a08u15b:781946:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.745733] [a08u19b:3426260:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744284] [a08u15b:781944:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744305] [a08u15b:781940:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744323] [a08u15b:781947:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744400] [a08u15b:781948:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744453] [a08u15b:781939:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.744584] [a08u15b:781937:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.747367] [a08u15b:781941:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.747695] [a08u15b:781943:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.747706] [a08u18b:903875:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.748209] [a08u16b:1702343:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.748268] [a08u16b:1702344:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.748427] [a08u16b:1702332:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.748536] [a08u16b:1702333:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.748406] [a08u15b:781950:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.748743] [a08u16b:1702335:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.748669] [a08u15b:781951:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749298] [a08u16b:1702338:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749244] [a08u18a:794949:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749409] [a08u18a:794951:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749444] [a08u18a:794950:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749515] [a08u18a:794953:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749555] [a08u18a:794942:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749839] [a08u16b:1702331:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749725] [a08u18a:794955:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749819] [a08u18a:794945:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.749931] [a08u18a:794948:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750035] [a08u19b:3426257:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750052] [a08u19b:3426263:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750236] [a08u18b:903878:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750473] [a08u18b:903880:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750431] [a08u19a:1744003:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750637] [a08u18a:794956:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750236] [a08u17b:1551324:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750287] [a08u17b:1551330:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750338] [a08u17b:1551333:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750375] [a08u17b:1551325:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.752260] [a08u15b:781949:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.752260] [a08u19a:1743996:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.752393] [a08u19b:3426264:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750421] [a08u17b:1551332:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.753070] [a08u15b:781945:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.750561] [a08u17b:1551327:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.751276] [a08u17b:1551328:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.752226] [a08u17b:1551329:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.752315] [a08u17b:1551336:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.752316] [a08u17b:1551337:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.752473] [a08u17b:1551334:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.753897] [a08u19b:3426262:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.753135] [a08u17b:1551331:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.753225] [a08u17b:1551335:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.754672] [a08u16b:1702346:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.753348] [a08u17b:1551340:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.754822] [a08u19a:1744010:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.755178] [a08u19a:1744002:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.755239] [a08u18a:794957:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.755460] [a08u16b:1702342:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.755551] [a08u18a:794959:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.755831] [a08u18a:794943:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.755871] [a08u18a:794947:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.755851] [a08u18a:794946:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.756305] [a08u16b:1702337:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.755069] [a08u17b:1551341:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.756459] [a08u18a:794960:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.756848] [a08u19b:3426261:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.756923] [a08u19b:3426259:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.757021] [a08u19a:1744011:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.753054] [a08u15b:781952:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.757581] [a08u18a:794958:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.757676] [a08u18b:903879:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.757761] [a08u18a:794952:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.758147] [a08u18a:794961:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.758171] [a08u19b:3426265:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.758137] [a08u15b:781954:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.758279] [a08u18a:794944:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.757184] [a08u17b:1551342:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.758345] [a08u18b:903883:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.758574] [a08u16b:1702341:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.758797] [a08u19a:1744012:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.759569] [a08u18a:794954:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.759850] [a08u16b:1702339:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.760021] [a08u15b:781955:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.760231] [a08u18b:903884:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.761042] [a08u19a:1744005:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.761293] [a08u19a:1743998:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.761301] [a08u19a:1743994:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.761495] [a08u19a:1743999:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.761536] [a08u19a:1744000:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.761653] [a08u19a:1743995:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.761781] [a08u19b:3426267:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.761865] [a08u19a:1743997:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.762000] [a08u15b:781956:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.762038] [a08u18a:794964:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.761997] [a08u19a:1744007:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.761995] [a08u19a:1744006:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.762199] [a08u19a:1744013:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.762277] [a08u15b:781957:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.763366] [a08u19b:3426252:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.763371] [a08u19a:1744008:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.763525] [a08u16b:1702345:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.763415] [a08u19b:3426255:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.763408] [a08u19a:1744009:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.763468] [a08u15b:781953:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.763778] [a08u16b:1702347:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.762625] [a08u17b:1551344:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.762848] [a08u17b:1551326:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.762916] [a08u17b:1551338:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.764069] [a08u19a:1744015:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.764153] [a08u19b:3426254:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.764092] [a08u18b:903881:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.764266] [a08u19b:3426249:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.764378] [a08u19b:3426250:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.764382] [a08u19a:1744003:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.764831] [a08u19b:3426251:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.765076] [a08u15b:781939:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.765342] [a08u18b:903888:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.766079] [a08u19b:3426248:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.765984] [a08u15b:781958:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.766485] [a08u15b:781946:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.766949] [a08u19b:3426266:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.767406] [a08u16b:1702350:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.767659] [a08u16b:1702352:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.767641] [a08u19b:3426270:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.767670] [a08u19b:3426258:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.767778] [a08u19a:1744014:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.768230] [a08u19a:1744017:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.768429] [a08u18b:903882:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.767642] [a08u17b:1551346:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.768907] [a08u19b:3426269:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.769533] [a08u16b:1702353:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.768894] [a08u18a:794965:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.769701] [a08u15b:781942:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.769378] [a08u18b:903885:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.769764] [a08u19a:1744001:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.769863] [a08u19b:3426256:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.769813] [a08u19a:1744018:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.770786] [a08u19b:3426268:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.771187] [a08u18a:794966:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.771383] [a08u15b:781947:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.771970] [a08u19a:1744004:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.772130] [a08u19a:1744002:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.772307] [a08u16b:1702348:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.772137] [a08u19a:1743996:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.772260] [a08u19b:3426260:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.772873] [a08u19a:1744010:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.773085] [a08u15b:781961:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.773252] [a08u18a:794962:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.773390] [a08u18b:903868:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.773518] [a08u19a:1744011:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.773570] [a08u18b:903865:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.773856] [a08u15b:781938:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.774152] [a08u18b:903870:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.774244] [a08u18b:903864:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.774269] [a08u18b:903863:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.774587] [a08u19b:3426253:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.774605] [a08u18b:903867:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.775082] [a08u19a:1744012:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.775099] [a08u15b:781944:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.775516] [a08u16b:1702349:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.775623] [a08u16b:1702355:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.775667] [a08u19b:3426263:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.775587] [a08u18b:903872:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.775695] [a08u18b:903869:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.775772] [a08u18b:903866:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.776099] [a08u15b:781959:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.776471] [a08u19b:3426257:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.776615] [a08u19b:3426264:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.776753] [a08u19b:3426262:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.776871] [a08u19b:3426265:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.777009] [a08u19b:3426261:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.777012] [a08u19b:3426259:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.777136] [a08u19b:3426267:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.775957] [a08u17b:1551347:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.776017] [a08u17b:1551345:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.777851] [a08u18b:903871:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.778304] [a08u18b:903874:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.778361] [a08u19a:1744005:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.778401] [a08u18b:903873:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.778608] [a08u18b:903876:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.778869] [a08u15b:781951:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.779150] [a08u15b:781937:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.779248] [a08u18b:903880:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.779460] [a08u16b:1702340:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.779501] [a08u15b:781940:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.779685] [a08u18b:903877:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.779769] [a08u15b:781948:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.780034] [a08u16b:1702334:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.780046] [a08u19b:3426274:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.780198] [a08u18b:903878:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.780218] [a08u18b:903875:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.780230] [a08u19a:1744013:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.780338] [a08u18b:903883:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.780981] [a08u19b:3426266:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.781256] [a08u15b:781950:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.781708] [a08u15b:781943:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.781912] [a08u15b:781941:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.782139] [a08u16b:1702336:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.782256] [a08u18b:903884:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.782389] [a08u19b:3426270:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.782322] [a08u19a:1744009:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.782502] [a08u19a:1744008:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.782571] [a08u18b:903879:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.783172] [a08u19b:3426269:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.783275] [a08u19a:1744015:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.783588] [a08u18b:903881:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.783673] [a08u19b:3426268:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.783868] [a08u16b:1702343:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.783968] [a08u18b:903888:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.784308] [a08u15b:781949:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.784332] [a08u18b:903882:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.784652] [a08u18b:903885:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.785346] [a08u15b:781945:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.785279] [a08u19a:1744014:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.785664] [a08u16b:1702344:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.785749] [a08u19a:1744017:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.785938] [a08u16b:1702333:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.786388] [a08u16b:1702335:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.786433] [a08u19a:1744018:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.786735] [a08u16b:1702332:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.786650] [a08u15b:781952:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.786695] [a08u19a:1744001:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.786832] [a08u19a:1744004:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.787168] [a08u16b:1702338:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.786459] [a08u17b:1551343:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.786570] [a08u17b:1551339:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.788350] [a08u15b:781954:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.787360] [a08u17b:1551327:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.789971] [a08u16b:1702331:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.791041] [a08u15b:781955:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.791270] [a08u16b:1702342:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.791269] [a08u16b:1702357:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460763.790460] [a08u17b:1551328:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.791841] [a08u16b:1702346:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.791861] [a08u15b:781956:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.791907] [a08u18a:794942:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.792195] [a08u19b:3426274:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.792817] [a08u15b:781953:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.791728] [a08u17b:1551332:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.792904] [a08u15b:781957:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.792881] [a08u18a:794945:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.793079] [a08u16b:1702347:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.791921] [a08u17b:1551330:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.793236] [a08u15b:781958:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.793660] [a08u16b:1702339:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.793767] [a08u16b:1702337:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.792733] [a08u17b:1551331:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794200] [a08u16b:1702341:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794099] [a08u15b:781961:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794416] [a08u16b:1702345:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794502] [a08u16b:1702350:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794470] [a08u18a:794956:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794697] [a08u16b:1702353:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794729] [a08u16b:1702352:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794695] [a08u18a:794951:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794913] [a08u16b:1702349:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794937] [a08u16b:1702348:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.795052] [a08u16b:1702355:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.795193] [a08u15b:781959:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794054] [a08u17b:1551337:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794119] [a08u17b:1551333:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794197] [a08u17b:1551326:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794218] [a08u17b:1551325:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794227] [a08u17b:1551341:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794264] [a08u17b:1551334:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794314] [a08u17b:1551324:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794323] [a08u17b:1551335:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794381] [a08u17b:1551340:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794385] [a08u17b:1551342:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794438] [a08u17b:1551329:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.795645] [a08u18a:794949:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794528] [a08u17b:1551336:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794543] [a08u17b:1551346:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.795768] [a08u18a:794948:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794673] [a08u17b:1551338:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.795802] [a08u18a:794950:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.795822] [a08u18a:794953:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794751] [a08u17b:1551347:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.795921] [a08u18a:794955:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796044] [a08u18a:794961:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.794943] [a08u17b:1551344:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796130] [a08u18a:794958:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796152] [a08u18a:794954:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796166] [a08u18a:794957:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796172] [a08u18a:794959:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796211] [a08u18a:794964:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796223] [a08u18a:794960:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796249] [a08u18a:794962:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796278] [a08u18a:794952:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796282] [a08u18a:794966:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796291] [a08u18a:794944:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796294] [a08u18a:794965:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.796334] [a08u17b:1551345:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.800885] [a08u17b:1551339:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.801025] [a08u17b:1551343:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460763.803636] [a08u16b:1702357:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.096838] [a08u20a:2127245:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.096977] [a08u20a:2127247:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.097070] [a08u20a:2127250:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.097147] [a08u20a:2127251:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.097194] [a08u20a:2127243:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.097218] [a08u20a:2127246:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.097267] [a08u20a:2127237:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.097913] [a08u20a:2127232:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.098053] [a08u20a:2127234:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.100223] [a08u20a:2127231:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.100295] [a08u20a:2127230:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.100508] [a08u20a:2127228:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.100639] [a08u20a:2127233:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.100819] [a08u20a:2127235:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.100946] [a08u20a:2127241:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.101019] [a08u20a:2127239:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.101028] [a08u20a:2127229:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.101035] [a08u20a:2127248:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.101121] [a08u20a:2127236:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.101199] [a08u20a:2127249:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.103089] [a08u20a:2127242:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.105278] [a08u20a:2127240:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.105838] [a08u20a:2127238:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.109005] [a08u20a:2127244:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.117158] [a08u20a:2127231:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.123746] [a08u20a:2127251:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.125031] [a08u20a:2127235:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.125879] [a08u20a:2127239:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.126973] [a08u20a:2127242:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.131570] [a08u20a:2127246:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.137099] [a08u20a:2127245:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.137781] [a08u20a:2127233:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.143401] [a08u20a:2127247:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.144657] [a08u20a:2127232:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.146690] [a08u20a:2127240:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.147502] [a08u20a:2127236:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.147735] [a08u20a:2127249:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.147816] [a08u20a:2127248:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.148071] [a08u20a:2127229:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.149832] [a08u20a:2127230:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.150281] [a08u20a:2127250:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.150401] [a08u20a:2127234:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.150784] [a08u20a:2127241:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.150889] [a08u20a:2127237:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.151191] [a08u20a:2127228:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.151307] [a08u20a:2127238:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.151460] [a08u20a:2127243:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.151841] [a08u20a:2127244:0]         parser.c:1629 UCX  WARN  unused env variable: UCX_TSL (set UCX_WARN_UNUSED_ENV_VARS=n to suppress this warning)
+[1728460764.196738] [a08u16b:1702342:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.197496] [a08u16b:1702331:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.201648] [a08u18b:903873:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.201774] [a08u20a:2127247:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.201773] [a08u18b:903875:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.201867] [a08u18b:903878:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.201886] [a08u15b:781955:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.202161] [a08u18a:794961:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.202661] [a08u15b:781956:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.202914] [a08u18a:794949:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.203109] [a08u20a:2127232:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.202769] [a08u17b:1551330:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.204365] [a08u19a:1744012:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.205139] [a08u19a:1743994:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.205201] [a08u19a:1744014:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.205614] [a08u19a:1744008:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.205978] [a08u16b:1702334:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.206622] [a08u18a:794951:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.206662] [a08u19b:3426253:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.206687] [a08u19b:3426259:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.207070] [a08u15b:781944:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.207651] [a08u20a:2127240:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.210531] [a08u17b:1551343:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.212338] [a08u15b:781947:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.212340] [a08u15b:781943:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.212390] [a08u15b:781958:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.212424] [a08u15b:781949:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.212937] [a08u18a:794957:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213022] [a08u18a:794956:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213017] [a08u18b:903879:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213096] [a08u18b:903870:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213130] [a08u18a:794945:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213146] [a08u18a:794966:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213157] [a08u18b:903866:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213178] [a08u18b:903872:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213209] [a08u15b:781939:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213168] [a08u18a:794950:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213235] [a08u18a:794959:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213289] [a08u15b:781952:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213195] [a08u18b:903888:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213292] [a08u18a:794960:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213305] [a08u18b:903863:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213342] [a08u18a:794948:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213342] [a08u15b:781959:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213344] [a08u18b:903877:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213379] [a08u18b:903864:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213436] [a08u18b:903865:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213462] [a08u18b:903881:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213488] [a08u20a:2127239:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213508] [a08u20a:2127234:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213649] [a08u20a:2127248:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213020] [a08u17b:1551333:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.212994] [a08u17b:1551334:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213062] [a08u17b:1551328:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213083] [a08u17b:1551339:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213213] [a08u17b:1551329:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.214332] [a08u18b:903871:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213275] [a08u17b:1551336:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213327] [a08u17b:1551344:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213440] [a08u17b:1551337:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213516] [a08u17b:1551347:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.213884] [a08u17b:1551325:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.215569] [a08u20a:2127241:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216002] [a08u15b:781954:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216162] [a08u20a:2127244:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216219] [a08u20a:2127245:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216177] [a08u19b:3426261:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216271] [a08u18a:794947:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216586] [a08u20a:2127238:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216537] [a08u18a:794952:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216619] [a08u18a:794965:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216575] [a08u19a:1743999:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216648] [a08u15b:781957:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216613] [a08u19a:1743998:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.215528] [a08u17b:1551346:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216624] [a08u19a:1744015:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216659] [a08u19a:1744002:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216666] [a08u19a:1744018:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216785] [a08u19b:3426268:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216707] [a08u19a:1744017:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216763] [a08u19a:1743996:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216896] [a08u19b:3426260:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216861] [a08u18a:794962:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216910] [a08u19b:3426264:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216929] [a08u20a:2127242:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216878] [a08u19a:1744005:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216961] [a08u19b:3426274:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217012] [a08u19a:1744000:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.215925] [a08u17b:1551331:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217196] [a08u19b:3426269:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217367] [a08u19b:3426256:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217513] [a08u19b:3426266:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216365] [a08u17b:1551332:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.216442] [a08u17b:1551338:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217498] [a08u19a:1743997:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217623] [a08u20a:2127236:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217687] [a08u19b:3426255:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217805] [a08u20a:2127243:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217833] [a08u15b:781938:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217854] [a08u15b:781941:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217908] [a08u19b:3426248:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217911] [a08u19b:3426257:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218001] [a08u19b:3426258:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218009] [a08u15b:781961:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218092] [a08u19b:3426252:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218128] [a08u19b:3426250:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218133] [a08u15b:781948:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218403] [a08u20a:2127231:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218526] [a08u19b:3426251:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218567] [a08u15b:781951:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.217443] [a08u17b:1551342:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219075] [a08u16b:1702337:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219135] [a08u16b:1702338:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219087] [a08u20a:2127233:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219182] [a08u16b:1702347:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219203] [a08u16b:1702352:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219306] [a08u16b:1702350:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.218033] [a08u17b:1551340:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219330] [a08u16b:1702355:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219348] [a08u16b:1702339:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219436] [a08u16b:1702343:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219426] [a08u20a:2127250:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219621] [a08u16b:1702333:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219502] [a08u15b:781953:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219696] [a08u16b:1702353:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219713] [a08u20a:2127246:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219650] [a08u15b:781940:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219693] [a08u15b:781945:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219763] [a08u15b:781950:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219831] [a08u15b:781937:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219857] [a08u15b:781942:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219890] [a08u15b:781946:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220280] [a08u20a:2127237:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219104] [a08u17b:1551327:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219257] [a08u17b:1551335:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220303] [a08u18b:903869:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219305] [a08u17b:1551341:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219408] [a08u17b:1551345:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220640] [a08u20a:2127249:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219560] [a08u17b:1551326:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220780] [a08u20a:2127235:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220846] [a08u20a:2127228:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220755] [a08u18b:903874:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.219722] [a08u17b:1551324:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220933] [a08u20a:2127229:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220943] [a08u20a:2127251:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220970] [a08u20a:2127230:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220917] [a08u18b:903883:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.220946] [a08u18b:903867:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221098] [a08u18b:903884:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221123] [a08u18b:903882:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221060] [a08u18a:794942:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221077] [a08u18a:794958:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221176] [a08u18b:903880:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221256] [a08u18b:903885:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221321] [a08u18b:903876:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221330] [a08u18b:903868:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221437] [a08u18a:794964:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221501] [a08u18a:794944:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221535] [a08u18a:794954:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221557] [a08u18a:794953:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221581] [a08u18a:794943:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221595] [a08u18a:794955:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.222561] [a08u16b:1702349:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.222769] [a08u16b:1702340:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.221970] [a08u18a:794946:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.222934] [a08u19a:1744007:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.223596] [a08u19a:1744004:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.224274] [a08u19a:1744006:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.224284] [a08u19a:1744001:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.224330] [a08u19a:1744013:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.224473] [a08u19a:1744003:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.224496] [a08u19a:1744010:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.224574] [a08u19a:1744009:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.224966] [a08u16b:1702346:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.224995] [a08u16b:1702344:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.225079] [a08u19a:1744011:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.225166] [a08u19a:1743995:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.225586] [a08u16b:1702336:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.225431] [a08u19b:3426249:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.225452] [a08u19b:3426254:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.226115] [a08u16b:1702335:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.226132] [a08u16b:1702348:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.226180] [a08u16b:1702345:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.226290] [a08u16b:1702332:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.226308] [a08u16b:1702357:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.226362] [a08u16b:1702341:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.227513] [a08u19b:3426263:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.227804] [a08u19b:3426265:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.227865] [a08u19b:3426270:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.227903] [a08u19b:3426262:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1728460764.228228] [a08u19b:3426267:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+Using existing initial_configuration_cache/hard_sphere_2000000_1.0_3.gsd
+notice(2): Using domain decomposition: n_x = 4 n_y = 6 n_z = 8.
+Running MDPairWCA benchmark
+.. warming up for 1000 steps
+.. running for 100000 steps 1 time(s)
+.. 84.56200159949027 time steps per second
+84.56200159949027
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@a08u16b>
+Subject: Job 212536: <hpcx-xbx> in cluster <qmhpc> Done
+
+Job <hpcx-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Wed Oct  9 15:59:16 2024
+Job was executed on host(s) <24*a08u16b>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Wed Oct  9 15:59:17 2024
+                            <24*a08u18a>
+                            <24*a08u19b>
+                            <24*a08u20a>
+                            <24*a08u17b>
+                            <24*a08u19a>
+                            <24*a08u18b>
+                            <24*a08u15b>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Wed Oct  9 15:59:17 2024
+Terminated at Wed Oct  9 16:19:28 2024
+Results reported at Wed Oct  9 16:19:28 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 192
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+#BSUB -J hpcx-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+source /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hpcx-init.sh
+module use /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/modulefiles
+module load hpcx
+
+#time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+# oshmem中启动hcoll
+#time -p oshrun  -mca scoll_mpi_enable 1 -mca scoll basic,mpi -mca coll_hcoll_enable 1 -x HCOLL_ENABLE_SHARP=1 -x HCOLL_ALLREDUCE_LB_SUPPORT=0 -x HCOLL_BCOL_P2P_LARGE_ALLREDUCE_ALG=1 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NODE_RADIX=3 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NET_RADIX=2 --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+# mpi中启动hcoll
+# time -p mpirun -mca coll_hcoll_enable 1 -x HCOLL_ENABLE_SHARP=1 -x HCOLL_ALLREDUCE_LB_SUPPORT=0 -x HCOLL_BCOL_P2P_LARGE_ALLREDUCE_ALG=1 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NODE_RADIX=3 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NET_RADIX=2 --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -
+time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP -x UCX_TSL=shm,rc_x -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   28429.00 sec.
+    Max Memory :                                 8523 MB
+    Average Memory :                             8436.45 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              35
+    Max Threads :                                111
+    Run time :                                   1209 sec.
+    Turnaround time :                            1212 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <212536.err> for stderr output of this job.
+

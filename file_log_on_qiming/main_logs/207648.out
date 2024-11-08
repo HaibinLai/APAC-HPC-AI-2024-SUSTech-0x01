@@ -1,0 +1,1992 @@
+[1727524324.665330] [b05u03s:47801:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665448] [b05u03s:47803:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665467] [b05u03s:47793:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665491] [b05u03s:47780:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665510] [b05u03s:47781:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665543] [b05u03s:47789:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665625] [b05u03s:47796:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665641] [b05u03s:47786:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665663] [b05u03s:47794:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665701] [b05u03s:47798:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665808] [b05u03s:47784:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665727] [b05u03s:47787:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665784] [b05u03s:47797:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665838] [b05u03s:47785:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665918] [b05u03s:47795:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665855] [b05u03s:47802:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665980] [b05u03s:47800:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.665886] [b05u03s:47788:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.666035] [b05u03s:47782:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.666101] [b05u03s:47792:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.666168] [b05u03s:47790:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.666293] [b05u03s:47799:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.666317] [b05u03s:47791:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.667000] [b05u03s:47783:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.695202] [b03u38a:2868467:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.695207] [b03u38a:2868451:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.695481] [b03u38a:2868462:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.702028] [b03u38a:2868460:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.703697] [b03u38a:2868469:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.705620] [b03u38a:2868450:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.705410] [b03u40a:1127980:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.705414] [b03u40a:1127970:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.705419] [b03u40a:1127962:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.705405] [b03u40a:1127971:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.705418] [b03u40a:1127975:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.706955] [b03u40a:1127977:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.707100] [b03u40a:1127966:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.708205] [b03u38a:2868457:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.708556] [b03u40a:1127969:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.708843] [b03u40a:1127964:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.709317] [b03u38a:2868459:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.710642] [b03u32a:257714:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.710638] [b03u32a:257717:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.710582] [b03u40a:1127965:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.711265] [b03u40a:1127976:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.715969] [b03u40a:1127974:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.716939] [b03u32a:257733:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.718881] [b03u32a:257730:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.719281] [b03u40a:1127973:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.719696] [b03u40a:1127968:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.720465] [b03u40a:1127972:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.721153] [b03u40a:1127960:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.721948] [b03u32a:257713:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.722709] [b03u40a:1127961:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.723198] [b03u40a:1127982:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.723465] [b03u40a:1127963:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.723757] [b03u40a:1127979:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.724209] [b03u32a:257728:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.724326] [b03u40a:1127981:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.724796] [b03u40a:1127959:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.725272] [b03u40a:1127978:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.726111] [b03u38a:2868448:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.727601] [b03u38a:2868453:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.727567] [b03u40a:1127967:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.728788] [b03u38a:2868470:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.730415] [b03u38a:2868463:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.731752] [b03u38a:2868458:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.733449] [b03u38a:2868465:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.733470] [b03u38a:2868454:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.733922] [b03u32a:257726:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.734401] [b03u38a:2868466:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.735606] [b03u32a:257715:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.735994] [b03u38a:2868456:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.737761] [b03u32a:257729:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.741832] [b03u38a:2868449:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.743056] [b03u38a:2868455:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.750445] [b03u38a:2868452:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.752637] [b03u38a:2868468:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.753649] [b03u38a:2868461:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.754422] [b03u38a:2868464:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.760331] [b03u32a:257718:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.764842] [b03u38a:2868471:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.770547] [b03u32a:257734:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.770986] [b03u32a:257735:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.773245] [b03u32a:257732:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.774795] [b03u32a:257736:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.774812] [b03u32a:257731:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.775106] [b03u32a:257725:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.776696] [b03u32a:257720:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.777746] [b03u32a:257719:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.778543] [b03u32a:257724:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.781167] [b03u32a:257723:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.781457] [b03u32a:257721:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.781727] [b03u32a:257716:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.782259] [b03u32a:257722:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524324.792812] [b03u32a:257727:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.416718] [b05u03s:47792:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.416998] [b05u03s:47788:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.418139] [b05u03s:47789:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.418649] [b05u03s:47800:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.418755] [b05u03s:47785:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.418967] [b05u03s:47791:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.419003] [b05u03s:47802:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.419028] [b05u03s:47801:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.419094] [b05u03s:47795:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.419108] [b05u03s:47784:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.419370] [b05u03s:47787:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.419389] [b05u03s:47797:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.420940] [b05u03s:47782:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.420989] [b05u03s:47790:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.421216] [b05u03s:47794:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.423150] [b05u03s:47803:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.423475] [b05u03s:47798:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.423828] [b05u03s:47786:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.424758] [b05u03s:47793:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.424777] [b05u03s:47799:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.424831] [b05u03s:47783:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.425175] [b05u03s:47796:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.428217] [b05u03s:47780:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.428599] [b05u03s:47781:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.436313] [b03u40a:1127981:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.436334] [b03u40a:1127968:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.436587] [b03u40a:1127974:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.436993] [b03u40a:1127980:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.450920] [b03u40a:1127973:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.455956] [b03u38a:2868451:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.457678] [b03u38a:2868468:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.458161] [b03u38a:2868460:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.457625] [b03u40a:1127978:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.458737] [b03u38a:2868454:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.459231] [b03u38a:2868448:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.459239] [b03u38a:2868450:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.465627] [b03u40a:1127964:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.466204] [b03u40a:1127963:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.471765] [b03u40a:1127969:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.476772] [b03u38a:2868456:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.487716] [b03u32a:257719:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.487429] [b03u40a:1127959:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.488354] [b03u32a:257729:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.490060] [b03u32a:257734:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.490092] [b03u32a:257733:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.490644] [b03u32a:257724:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.491818] [b03u32a:257731:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.491840] [b03u32a:257726:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.492149] [b03u32a:257723:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.492594] [b03u32a:257715:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.492948] [b03u32a:257736:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.492940] [b03u32a:257735:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.496985] [b03u32a:257727:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.499782] [b03u38a:2868470:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.500466] [b03u38a:2868458:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.503024] [b03u32a:257728:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.505194] [b03u38a:2868457:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.507092] [b03u32a:257720:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.509140] [b03u32a:257717:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.509145] [b03u32a:257725:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.511837] [b03u38a:2868455:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.511974] [b03u38a:2868464:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.511903] [b03u40a:1127979:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.512181] [b03u32a:257714:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.512547] [b03u32a:257730:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.512808] [b03u32a:257716:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.516050] [b03u32a:257713:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.516039] [b03u32a:257718:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.518978] [b03u38a:2868465:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.518984] [b03u40a:1127976:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.519942] [b03u40a:1127982:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.520704] [b03u40a:1127975:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.521058] [b03u40a:1127972:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.522116] [b03u38a:2868466:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.522425] [b03u40a:1127961:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.523047] [b03u40a:1127962:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.526063] [b03u40a:1127970:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.528314] [b03u40a:1127977:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.529341] [b03u40a:1127965:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.530370] [b03u40a:1127971:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.530890] [b03u40a:1127967:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.531452] [b03u40a:1127966:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.534625] [b03u32a:257721:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.535150] [b03u38a:2868462:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.536550] [b03u32a:257722:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.540263] [b03u38a:2868459:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.540445] [b03u40a:1127960:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.546765] [b03u38a:2868452:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.547100] [b03u38a:2868461:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.550132] [b03u38a:2868471:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.554167] [b03u38a:2868449:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.554190] [b03u38a:2868463:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.554579] [b03u38a:2868469:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.555036] [b03u38a:2868453:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.556787] [b03u32a:257732:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727524325.566423] [b03u38a:2868467:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+Using existing initial_configuration_cache/hard_sphere_2000000_1.0_3.gsd
+notice(2): Using domain decomposition: n_x = 4 n_y = 4 n_z = 6.
+Running MDPairWCA benchmark
+.. warming up for 1000 steps
+.. running for 2000 steps 1 time(s)
+.. 85.87290277976597 time steps per second
+85.87290277976597
+         13268 function calls (11383 primitive calls) in 38.424 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.273    0.273    0.273    0.273 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.131    0.044    0.131    0.044 {built-in method _imp.create_dynamic}
+        5    0.007    0.001    0.007    0.001 {built-in method io.open_code}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+       45    0.007    0.000    0.007    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.424 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.884   11.961 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.286    0.286    0.286    0.286 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.117    0.039    0.117    0.039 {built-in method _imp.create_dynamic}
+        5    0.010    0.002    0.010    0.002 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.423 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.882   11.961 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.273    0.273    0.273    0.273 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.131    0.044    0.131    0.044 {built-in method _imp.create_dynamic}
+        5    0.009    0.002    0.009    0.002 {built-in method io.open_code}
+       45    0.007    0.000    0.007    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+   899/76    0.004    0.000    0.005    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.274    0.274    0.274    0.274 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.130    0.043    0.130    0.043 {built-in method _imp.create_dynamic}
+        5    0.010    0.002    0.010    0.002 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.287    0.287    0.287    0.287 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.099    0.033    0.099    0.033 {built-in method _imp.create_dynamic}
+       45    0.014    0.000    0.014    0.000 {built-in method posix.stat}
+        5    0.013    0.003    0.013    0.003 {built-in method io.open_code}
+        5    0.007    0.001    0.007    0.001 {method 'read' of '_io.BufferedReader' objects}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.423 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.287    0.287    0.287    0.287 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.112    0.037    0.112    0.037 {built-in method _imp.create_dynamic}
+       45    0.010    0.000    0.010    0.000 {built-in method posix.stat}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.423 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.287    0.287    0.287    0.287 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.116    0.039    0.116    0.039 {built-in method _imp.create_dynamic}
+        1    0.008    0.008    0.008    0.008 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        5    0.007    0.001    0.007    0.001 {built-in method io.open_code}
+         13268 function calls (11383 primitive calls) in 38.426 seconds
+
+       43    0.004    0.000    0.004    0.000 {built-in method builtins.setattr}
+
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.286    0.286    0.286    0.286 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.115    0.038    0.115    0.038 {built-in method _imp.create_dynamic}
+       45    0.011    0.000    0.011    0.000 {built-in method posix.stat}
+        5    0.010    0.002    0.010    0.002 {built-in method io.open_code}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.424 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.883   11.961 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.276    0.276    0.276    0.276 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.128    0.043    0.128    0.043 {built-in method _imp.create_dynamic}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       45    0.007    0.000    0.007    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.004    0.000    0.004    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.424 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.884   11.961 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.275    0.275    0.276    0.276 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.128    0.043    0.128    0.043 {built-in method _imp.create_dynamic}
+         13268 function calls (11383 primitive calls) in 38.424 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.884   11.961 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.282    0.282    0.282    0.282 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.121    0.040    0.121    0.040 {built-in method _imp.create_dynamic}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.009    0.002    0.009    0.002 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.004    0.000    0.004    0.000 {built-in method builtins.setattr}
+
+
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.423 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.281    0.281    0.281    0.281 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.123    0.041    0.123    0.041 {built-in method _imp.create_dynamic}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       45    0.007    0.000    0.007    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.423 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.288    0.288    0.288    0.288 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.116    0.039    0.116    0.039 {built-in method _imp.create_dynamic}
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+        5    0.006    0.001    0.006    0.001 {built-in method io.open_code}
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.073    0.024    0.073    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.422 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.273    0.273    0.273    0.273 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.131    0.044    0.131    0.044 {built-in method _imp.create_dynamic}
+       45    0.007    0.000    0.007    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {built-in method io.open_code}
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13286 function calls (11401 primitive calls) in 38.269 seconds
+
+   Ordered by: internal time
+   List reduced from 563 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.248    0.248    0.248    0.248 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.010    0.003    0.010    0.003 {built-in method _imp.create_dynamic}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+        1    0.004    0.004    0.004    0.004 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        1    0.003    0.003    0.003    0.003 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.276    0.276    0.276    0.276 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.128    0.043    0.128    0.043 {built-in method _imp.create_dynamic}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        5    0.007    0.001    0.007    0.001 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.245 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.242    0.242    0.242    0.242 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+        1    0.002    0.002    0.014    0.014 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/pair/pair.py:126(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.269 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.249    0.249    0.249    0.249 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.009    0.003    0.009    0.003 {built-in method _imp.create_dynamic}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+       43    0.004    0.000    0.004    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.256 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.237    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.196    0.065    0.196    0.065 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+       45    0.025    0.001    0.025    0.001 {built-in method posix.stat}
+        5    0.012    0.002    0.012    0.002 {built-in method io.open_code}
+        5    0.011    0.002    0.011    0.002 {method 'read' of '_io.BufferedReader' objects}
+        1    0.008    0.008    0.008    0.008 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.256 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.202    0.067    0.202    0.067 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+       45    0.021    0.000    0.021    0.000 {built-in method posix.stat}
+        5    0.010    0.002    0.010    0.002 {method 'read' of '_io.BufferedReader' objects}
+        1    0.010    0.010    0.010    0.010 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.242 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.237    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.213    0.071    0.213    0.071 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.014    0.014    0.014    0.014 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+        5    0.003    0.001    0.003    0.001 {built-in method io.open_code}
+
+
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.072    0.024    0.072    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.019    0.004    0.019    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.625    0.625    0.625    0.625 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.071    0.024    0.071    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.883   11.961 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.624    0.624    0.624    0.624 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.071    0.024    0.071    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.019    0.004    0.019    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.626    0.626    0.627    0.627 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.068    0.023    0.068    0.023 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.019    0.004    0.019    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.006    0.001    0.006    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.472    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+        3    0.073    0.024    0.073    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.006    0.001    0.006    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.624    0.624    0.624    0.624 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.073    0.024    0.073    0.024 {built-in method _imp.create_dynamic}
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.625    0.625    0.625    0.625 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.472    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.069    0.023    0.069    0.023 {built-in method _imp.create_dynamic}
+       45    0.021    0.000    0.021    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        5    0.006    0.001    0.006    0.001 {method 'read' of '_io.BufferedReader' objects}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.424 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.286    0.286    0.286    0.286 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.110    0.037    0.110    0.037 {built-in method _imp.create_dynamic}
+        5    0.012    0.002    0.012    0.002 {built-in method io.open_code}
+       45    0.011    0.000    0.011    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.625    0.625    0.625    0.625 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.472    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.071    0.024    0.071    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.008    0.008    0.008    0.008 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.006    0.001    0.006    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.625    0.625    0.625    0.625 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.071    0.024    0.071    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.017    0.003    0.017    0.003 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.165    0.055    0.165    0.055 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.032    0.032    0.032    0.032 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       45    0.026    0.001    0.026    0.001 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {method 'read' of '_io.BufferedReader' objects}
+        5    0.010    0.002    0.010    0.002 {built-in method io.open_code}
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.256 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.193    0.064    0.193    0.064 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.033    0.033    0.033    0.033 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.014    0.003    0.014    0.003 {method 'read' of '_io.BufferedReader' objects}
+        5    0.009    0.002    0.009    0.002 {built-in method io.open_code}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.256 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.395   11.798   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.218    0.073    0.218    0.073 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        5    0.012    0.002    0.012    0.002 {method 'read' of '_io.BufferedReader' objects}
+        5    0.011    0.002    0.011    0.002 {built-in method io.open_code}
+        1    0.008    0.008    0.008    0.008 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.133    0.044    0.133    0.044 {built-in method _imp.create_dynamic}
+        1    0.083    0.083    0.083    0.083 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       45    0.017    0.000    0.017    0.000 {built-in method posix.stat}
+        5    0.010    0.002    0.010    0.002 {method 'read' of '_io.BufferedReader' objects}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.242 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.237    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.189    0.063    0.189    0.063 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+       45    0.023    0.001    0.023    0.001 {built-in method posix.stat}
+        1    0.012    0.012    0.012    0.012 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.010    0.002    0.010    0.002 {method 'read' of '_io.BufferedReader' objects}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.269 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.250    0.250    0.250    0.250 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.009    0.003    0.009    0.003 {built-in method _imp.create_dynamic}
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+   899/76    0.002    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.254 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.248    0.248    0.248    0.248 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.625    0.625    0.625    0.625 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.072    0.024    0.072    0.024 {built-in method _imp.create_dynamic}
+       45    0.021    0.000    0.021    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.073    0.024    0.073    0.024 {built-in method _imp.create_dynamic}
+       45    0.021    0.000    0.021    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.287    0.287    0.287    0.287 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.104    0.035    0.104    0.035 {built-in method _imp.create_dynamic}
+       45    0.014    0.000    0.014    0.000 {built-in method posix.stat}
+        5    0.012    0.002    0.012    0.002 {built-in method io.open_code}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.284    0.284    0.284    0.284 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.120    0.040    0.120    0.040 {built-in method _imp.create_dynamic}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.274    0.274    0.274    0.274 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.129    0.043    0.129    0.043 {built-in method _imp.create_dynamic}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.273    0.273    0.274    0.274 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.130    0.043    0.130    0.043 {built-in method _imp.create_dynamic}
+        5    0.009    0.002    0.009    0.002 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.287    0.287    0.287    0.287 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.112    0.037    0.112    0.037 {built-in method _imp.create_dynamic}
+       45    0.010    0.000    0.010    0.000 {built-in method posix.stat}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.423 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.395   11.798   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.275    0.275    0.276    0.276 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.128    0.043    0.128    0.043 {built-in method _imp.create_dynamic}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        5    0.007    0.001    0.007    0.001 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.424 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.949    1.949    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.287    0.287    0.287    0.287 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.116    0.039    0.116    0.039 {built-in method _imp.create_dynamic}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.243 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.147    0.049    0.147    0.049 {built-in method _imp.create_dynamic}
+        1    0.059    0.059    0.059    0.059 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       45    0.022    0.000    0.022    0.000 {built-in method posix.stat}
+        5    0.008    0.002    0.008    0.002 {method 'read' of '_io.BufferedReader' objects}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.249 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.237    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.202    0.067    0.202    0.067 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+       45    0.019    0.000    0.019    0.000 {built-in method posix.stat}
+        1    0.014    0.014    0.014    0.014 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.006    0.001    0.006    0.001 {built-in method io.open_code}
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.395   11.798   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.190    0.063    0.190    0.063 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.040    0.040    0.040    0.040 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.013    0.003    0.013    0.003 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.241 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.177    0.059    0.177    0.059 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.027    0.027    0.027    0.027 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       45    0.022    0.000    0.022    0.000 {built-in method posix.stat}
+        5    0.007    0.001    0.007    0.001 {method 'read' of '_io.BufferedReader' objects}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.253 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.183    0.061    0.183    0.061 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.038    0.038    0.038    0.038 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       45    0.015    0.000    0.015    0.000 {built-in method posix.stat}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.006    0.001    0.006    0.001 {built-in method io.open_code}
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.256 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.395   11.798   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.194    0.065    0.194    0.065 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.033    0.033    0.033    0.033 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.016    0.003    0.016    0.003 {method 'read' of '_io.BufferedReader' objects}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.006    0.001    0.006    0.001 {built-in method io.open_code}
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.127    0.042    0.127    0.042 {built-in method _imp.create_dynamic}
+        1    0.085    0.085    0.085    0.085 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       45    0.019    0.000    0.019    0.000 {built-in method posix.stat}
+        5    0.011    0.002    0.011    0.002 {built-in method io.open_code}
+        5    0.008    0.002    0.008    0.002 {method 'read' of '_io.BufferedReader' objects}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.243 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.884   11.961 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.196    0.065    0.196    0.065 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.031    0.031    0.031    0.031 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.009    0.002    0.009    0.002 {method 'read' of '_io.BufferedReader' objects}
+        1    0.006    0.006    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.201    0.067    0.201    0.067 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.026    0.026    0.026    0.026 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.014    0.003    0.014    0.003 {method 'read' of '_io.BufferedReader' objects}
+       43    0.008    0.000    0.008    0.000 {built-in method builtins.setattr}
+        5    0.007    0.001    0.007    0.001 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.254 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.395   11.798   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.237    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.167    0.056    0.167    0.056 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.063    0.063    0.064    0.064 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.011    0.002    0.011    0.002 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.256 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.216    0.072    0.216    0.072 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        5    0.016    0.003    0.016    0.003 {method 'read' of '_io.BufferedReader' objects}
+        1    0.011    0.011    0.011    0.011 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        5    0.004    0.001    0.004    0.001 {built-in method io.open_code}
+
+
+         13268 function calls (11383 primitive calls) in 38.256 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.218    0.073    0.218    0.073 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        5    0.015    0.003    0.015    0.003 {method 'read' of '_io.BufferedReader' objects}
+        1    0.009    0.009    0.009    0.009 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.006    0.001    0.006    0.001 {built-in method io.open_code}
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.211    0.070    0.211    0.070 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+       45    0.012    0.000    0.012    0.000 {built-in method posix.stat}
+        5    0.011    0.002    0.011    0.002 {built-in method io.open_code}
+        1    0.008    0.008    0.008    0.008 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        5    0.007    0.001    0.007    0.001 {method 'read' of '_io.BufferedReader' objects}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.256 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.395   11.798   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.173    0.058    0.173    0.058 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.030    0.030    0.030    0.030 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+       45    0.024    0.001    0.024    0.001 {built-in method posix.stat}
+        5    0.016    0.003    0.016    0.003 {method 'read' of '_io.BufferedReader' objects}
+        5    0.008    0.002    0.008    0.002 {built-in method io.open_code}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.237    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.216    0.072    0.216    0.072 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        5    0.016    0.003    0.016    0.003 {method 'read' of '_io.BufferedReader' objects}
+        1    0.010    0.010    0.010    0.010 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+        5    0.005    0.001    0.005    0.001 {built-in method io.open_code}
+
+
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.626    0.626    0.626    0.626 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.070    0.023    0.070    0.023 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.624    0.624    0.624    0.624 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.069    0.023    0.069    0.023 {built-in method _imp.create_dynamic}
+       45    0.021    0.000    0.021    0.000 {built-in method posix.stat}
+        5    0.019    0.004    0.019    0.004 {built-in method io.open_code}
+        5    0.006    0.001    0.006    0.001 {method 'read' of '_io.BufferedReader' objects}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.269 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.250    0.250    0.250    0.250 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.009    0.003    0.009    0.003 {built-in method _imp.create_dynamic}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+
+
+         13268 function calls (11383 primitive calls) in 38.239 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.236    0.236    0.236    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.004    0.000    0.004    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.074    0.025    0.074    0.025 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.626    0.626    0.626    0.626 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3    0.072    0.024    0.072    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.017    0.003    0.017    0.003 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.074    0.025    0.074    0.025 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    0.625    0.625    0.625    0.625 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.072    0.024    0.072    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        5    0.017    0.003    0.017    0.003 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.074    0.025    0.074    0.025 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.624    0.624    0.624    0.624 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.074    0.025    0.074    0.025 {built-in method _imp.create_dynamic}
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.074    0.025    0.074    0.025 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+        1    0.623    0.623    0.623    0.623 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.070    0.023    0.070    0.023 {built-in method _imp.create_dynamic}
+       45    0.021    0.000    0.021    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        5    0.007    0.001    0.007    0.001 {method 'read' of '_io.BufferedReader' objects}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.743 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.624    0.624    0.625    0.625 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.073    0.024    0.073    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.018    0.004    0.018    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.240 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.236    0.236    0.236    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+
+
+         13268 function calls (11383 primitive calls) in 38.235 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.231    0.231    0.231    0.231 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+        1    0.002    0.002    0.014    0.014 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/pair/pair.py:126(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.239 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.235    0.235    0.235    0.235 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+        1    0.002    0.002    0.014    0.014 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/pair/pair.py:126(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.268 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.883   11.961 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.249    0.249    0.249    0.249 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.009    0.003    0.009    0.003 {built-in method _imp.create_dynamic}
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.004    0.000    0.004    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.004    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.268 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.248    0.248    0.248    0.248 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.010    0.003    0.010    0.003 {built-in method _imp.create_dynamic}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.268 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.249    0.249    0.249    0.249 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.009    0.003    0.009    0.003 {built-in method _imp.create_dynamic}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+   899/76    0.002    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.257 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.248    0.248    0.249    0.249 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        3    0.005    0.002    0.005    0.002 {built-in method _imp.create_dynamic}
+       43    0.004    0.000    0.004    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+
+
+         13268 function calls (11383 primitive calls) in 38.262 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.237    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.248    0.248    0.248    0.248 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.010    0.003    0.010    0.003 {built-in method _imp.create_dynamic}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+
+
+         13268 function calls (11383 primitive calls) in 38.238 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.237    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.234    0.234    0.234    0.234 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+        1    0.002    0.002    0.014    0.014 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/pair/pair.py:126(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.236 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.232    0.232    0.232    0.232 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+   899/76    0.002    0.000    0.002    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.268 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.249    0.249    0.249    0.249 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.009    0.003    0.009    0.003 {built-in method _imp.create_dynamic}
+        1    0.007    0.007    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       45    0.006    0.000    0.006    0.000 {built-in method posix.stat}
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.248    0.248    0.248    0.248 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        3    0.003    0.001    0.003    0.001 {built-in method _imp.create_dynamic}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+   899/76    0.002    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.235 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.231    0.231    0.231    0.231 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+         13268 function calls (11383 primitive calls) in 38.261 seconds
+
+       43    0.005    0.000    0.005    0.000 {built-in method builtins.setattr}
+   899/76    0.003    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.248    0.248    0.248    0.248 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.009    0.003    0.009    0.003 {built-in method _imp.create_dynamic}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+   899/76    0.002    0.000    0.003    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.236 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.232    0.232    0.232    0.232 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+   899/76    0.002    0.000    0.002    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+         13268 function calls (11383 primitive calls) in 38.235 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.237 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.231    0.231    0.231    0.231 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+        1    0.002    0.002    0.014    0.014 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/pair/pair.py:126(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.255 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        3    0.222    0.074    0.222    0.074 {built-in method _imp.create_dynamic}
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        5    0.013    0.003    0.013    0.003 {built-in method io.open_code}
+       45    0.008    0.000    0.008    0.000 {built-in method posix.stat}
+        1    0.008    0.008    0.008    0.008 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.006    0.006    0.007    0.007 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+
+
+         13268 function calls (11383 primitive calls) in 38.425 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.277    0.277    0.277    0.277 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.105    2.105 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.126    0.042    0.126    0.042 {built-in method _imp.create_dynamic}
+        5    0.010    0.002    0.010    0.002 {built-in method io.open_code}
+       45    0.009    0.000    0.009    0.000 {built-in method posix.stat}
+       43    0.007    0.000    0.007    0.000 {built-in method builtins.setattr}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+
+
+         13268 function calls (11383 primitive calls) in 38.742 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.397   11.799   35.885   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        1    0.624    0.624    0.624    0.624 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        2    0.472    0.236    0.472    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.151    0.151    2.106    2.106 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.072    0.024    0.072    0.024 {built-in method _imp.create_dynamic}
+       45    0.020    0.000    0.020    0.000 {built-in method posix.stat}
+        5    0.019    0.004    0.019    0.004 {built-in method io.open_code}
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+        5    0.005    0.001    0.005    0.001 {method 'read' of '_io.BufferedReader' objects}
+
+
+         13268 function calls (11383 primitive calls) in 38.240 seconds
+
+   Ordered by: internal time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        3   35.396   11.799   35.886   11.962 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    1.950    1.950    1.953    1.953 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+        2    0.473    0.236    0.473    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:611(_get_group)
+        1    0.236    0.236    0.236    0.236 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/device.py:514(__init__)
+        1    0.151    0.151    2.104    2.104 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.006    0.006    0.006    0.006 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/md/nlist.py:390(_attach_hook)
+       43    0.006    0.000    0.006    0.000 {built-in method builtins.setattr}
+       45    0.003    0.000    0.003    0.000 {built-in method posix.stat}
+        1    0.002    0.002    0.002    0.002 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:25(_create_domain_decomposition)
+   899/76    0.002    0.000    0.002    0.000 {built-in method _abc._abc_subclasscheck}
+
+
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@b03u38a>
+Subject: Job 207648: <hpcx-xbx> in cluster <qmhpc> Done
+
+Job <hpcx-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Sat Sep 28 19:51:54 2024
+Job was executed on host(s) <24*b03u38a>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Sat Sep 28 19:51:54 2024
+                            <24*b05u03s>
+                            <24*b03u32a>
+                            <24*b03u40a>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Sat Sep 28 19:51:54 2024
+Terminated at Sat Sep 28 19:52:55 2024
+Results reported at Sat Sep 28 19:52:55 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 96
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+#BSUB -J hpcx-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+source /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hpcx-init.sh
+module use /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/modulefiles
+module load hpcx
+
+time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 2000 -v
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   996.67 sec.
+    Max Memory :                                 8655 MB
+    Average Memory :                             6183.10 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              31
+    Max Threads :                                107
+    Run time :                                   59 sec.
+    Turnaround time :                            61 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <207648.err> for stderr output of this job.
+

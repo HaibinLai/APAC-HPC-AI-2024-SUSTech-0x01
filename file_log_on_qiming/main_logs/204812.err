@@ -1,0 +1,15 @@
+vtune: Error: MPI application analysis is not possible if a result directory name is not provided or contains @ characters.
+Please specify a valid result directory name with the -r option.
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+vtune: Error: MPI application analysis is not possible if a result directory name is not provided or contains @ characters.
+Please specify a valid result directory name with the -r option.
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[24229,1],18]
+  Exit code:    1
+--------------------------------------------------------------------------

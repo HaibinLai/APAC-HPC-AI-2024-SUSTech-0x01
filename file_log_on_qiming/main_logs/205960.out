@@ -1,0 +1,1992 @@
+[1727203713.097806] [a08u17a:4168599:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.097901] [a08u17a:4168590:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.097922] [a08u17a:4168587:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098010] [a08u17a:4168589:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098061] [a08u17a:4168592:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098191] [a08u17a:4168595:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098266] [a08u17a:4168588:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098293] [a08u17a:4168591:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098590] [a08u17a:4168593:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098816] [a08u17b:897302:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098746] [a08u17a:4168597:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098828] [a08u17b:897303:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098759] [a08u17a:4168586:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098867] [a08u17b:897296:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098925] [a08u17b:897298:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098952] [a08u17b:897305:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098978] [a08u17b:897295:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098996] [a08u17b:897301:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.099032] [a08u17b:897297:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.099049] [a08u17b:897293:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098896] [a08u17a:4168585:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.099104] [a08u17b:897299:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098921] [a08u17a:4168598:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.099130] [a08u17b:897306:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.099149] [a08u17b:897304:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.098954] [a08u17a:4168596:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.099172] [a08u17b:897294:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.099162] [a08u17a:4168594:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.099226] [a08u17a:4168602:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.100149] [a08u17b:897307:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.100114] [a08u17a:4168605:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.101082] [a08u17a:4168606:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.101979] [a08u17a:4168600:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.104186] [a08u17a:4168601:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.105002] [a08u17b:897300:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.105030] [a08u17b:897309:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.105683] [a08u17a:4168608:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.106232] [a08u17a:4168607:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.106475] [a08u17a:4168603:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.109504] [a08u17b:897310:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.109656] [a08u17b:897311:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.110857] [a08u17b:897308:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.113671] [a08u17b:897312:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.114772] [a08u17a:4168604:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.121448] [a08u17b:897318:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.122100] [a08u17b:897323:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125702] [a08u16b:472344:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125720] [a08u16b:472343:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125768] [a08u16b:472338:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125787] [a08u16b:472339:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125810] [a08u16b:472348:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125868] [a08u16b:472345:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125891] [a08u16b:472341:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125908] [a08u16b:472336:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.125990] [a08u16b:472355:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.126098] [a08u16b:472337:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.128216] [a08u16b:472350:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.128635] [a08u16b:472346:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.128987] [a08u16b:472347:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.129333] [a08u16b:472351:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.129351] [a08u16b:472353:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.129421] [a08u16b:472354:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.129472] [a08u16b:472359:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.129504] [a08u16b:472352:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.129595] [a08u16b:472349:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.129985] [a08u17b:897315:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.131552] [a08u16b:472358:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.131597] [a08u16b:472340:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.135129] [a08u17b:897324:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.136135] [a08u16b:472356:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.139729] [a08u16b:472342:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.144038] [a08u16b:472357:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269744] [a08u16a:1937013:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269757] [a08u16a:1937022:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269816] [a08u16a:1937016:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269853] [a08u16a:1937020:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269880] [a08u16a:1937006:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269938] [a08u16a:1937010:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269957] [a08u16a:1937024:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269970] [a08u16a:1937012:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.269990] [a08u16a:1937018:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.270065] [a08u16a:1937025:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.270192] [a08u16a:1937019:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.270777] [a08u16a:1937005:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.270823] [a08u16a:1937003:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.271334] [a08u16a:1937015:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.271355] [a08u16a:1937011:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.271406] [a08u16a:1937007:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.271426] [a08u16a:1937008:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.271453] [a08u16a:1937004:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.271471] [a08u16a:1937026:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.274293] [a08u16a:1937021:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.274459] [a08u16a:1937014:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.275409] [a08u16a:1937017:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.277868] [a08u16a:1937009:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.278890] [a08u16a:1937023:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.403391] [a08u16a:1937016:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.409174] [a08u16a:1937024:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.409623] [a08u16a:1937005:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.410197] [a08u16a:1937015:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.410861] [a08u16a:1937022:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.410862] [a08u16a:1937025:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.410874] [a08u16a:1937003:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.410929] [a08u16a:1937011:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.410975] [a08u16a:1937021:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411158] [a08u16a:1937009:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411206] [a08u16a:1937012:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411434] [a08u16a:1937007:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411578] [a08u16a:1937008:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411649] [a08u16a:1937019:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411677] [a08u16a:1937023:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411714] [a08u16a:1937014:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411718] [a08u16a:1937013:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411797] [a08u16a:1937017:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411846] [a08u16a:1937026:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411900] [a08u16a:1937010:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411923] [a08u16a:1937020:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411964] [a08u16a:1937006:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.411992] [a08u16a:1937004:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.412063] [a08u16a:1937018:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.420436] [a08u17a:4168607:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.421342] [a08u16b:472345:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.421375] [a08u16b:472346:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.422142] [a08u17a:4168595:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.423638] [a08u16b:472354:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.425473] [a08u16b:472358:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.425673] [a08u16b:472343:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.427185] [a08u17b:897294:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.427779] [a08u17a:4168603:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.427854] [a08u17a:4168587:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.427960] [a08u17b:897324:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.427915] [a08u17a:4168605:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.428047] [a08u17b:897303:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.430741] [a08u17b:897302:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.431700] [a08u16b:472348:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.432030] [a08u16b:472347:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.432101] [a08u16b:472359:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.432195] [a08u16b:472340:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.432294] [a08u16b:472349:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.432310] [a08u16b:472351:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.433513] [a08u16b:472353:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.433535] [a08u16b:472341:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.434247] [a08u17a:4168600:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.436014] [a08u16b:472344:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.436669] [a08u16b:472337:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.437040] [a08u16b:472336:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.437321] [a08u17b:897300:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.437506] [a08u17b:897310:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.437511] [a08u17b:897308:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.437611] [a08u17b:897318:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.437567] [a08u16b:472338:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.437706] [a08u17b:897298:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.438103] [a08u16b:472350:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.438705] [a08u17b:897304:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.438602] [a08u16b:472356:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.439090] [a08u16b:472342:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.439119] [a08u17a:4168593:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.439293] [a08u16b:472357:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.439522] [a08u17b:897315:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.439659] [a08u17b:897296:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.439621] [a08u16b:472352:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.439673] [a08u16b:472355:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.440226] [a08u17a:4168606:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.440205] [a08u16b:472339:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.440472] [a08u17a:4168596:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.440776] [a08u17a:4168604:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.441126] [a08u17a:4168599:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.441174] [a08u17b:897323:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.441355] [a08u17b:897301:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.442548] [a08u17b:897307:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.442883] [a08u17b:897311:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.443132] [a08u17b:897305:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.443844] [a08u17b:897299:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.444057] [a08u17b:897297:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.444991] [a08u17b:897309:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.445398] [a08u17b:897293:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.445413] [a08u17b:897306:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.445475] [a08u17b:897312:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.445514] [a08u17b:897295:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.446574] [a08u17a:4168588:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.447838] [a08u17a:4168589:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.448210] [a08u17a:4168586:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.448343] [a08u17a:4168608:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.448404] [a08u17a:4168594:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.448646] [a08u17a:4168585:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.449062] [a08u17a:4168591:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.449132] [a08u17a:4168602:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.449145] [a08u17a:4168601:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.449188] [a08u17a:4168590:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.449355] [a08u17a:4168597:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.449380] [a08u17a:4168592:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1727203713.449499] [a08u17a:4168598:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+Using existing initial_configuration_cache/hard_sphere_2000000_1.0_3.gsd
+notice(2): Using domain decomposition: n_x = 4 n_y = 4 n_z = 6.
+Running MDPairWCA benchmark
+.. warming up for 1000 steps
+.. running for 2000 steps 1 time(s)
+.. 38.28580660920222 time steps per second
+38.28580660920222
+         13268 function calls (11383 primitive calls) in 82.889 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13286 function calls (11401 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 563 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.456   79.456 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.455   26.485 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.455   26.485 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    0.002    0.002    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.185    3.185    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.458   79.458 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.240   52.240 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.159    0.159    3.348    3.348 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.456   26.485 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.456   26.485 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        1    3.184    3.184    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+        3   78.829   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.240   52.240 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.159    0.159    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.185    3.185    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.242   52.242 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.879 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.240   52.240 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.240   52.240 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.458   79.458 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.240   52.240 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.458   79.458 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.456   26.485 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.456   26.485 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.240   52.240 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.458   79.458 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.456   26.485 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.458   79.458 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        1    0.000    0.000    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.159    0.159    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.185    3.185    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.458   79.458 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        1    0.159    0.159    3.348    3.348 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.159    0.159    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.185    3.185    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        3   78.829   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.159    0.159    3.348    3.348 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.456   26.485 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.456   26.485 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.369    3.369 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.159    0.159    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.185    3.185    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.880 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.878   82.878 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.159    0.159    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.458   79.458 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.458   79.458 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+         13268 function calls (11383 primitive calls) in 82.889 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.456   26.485 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.456   26.485 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.889 seconds
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   82.885   82.885 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+        1    0.000    0.000   52.235   52.235 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.361    3.361 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.885   82.885 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.240   52.240 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.361    3.361 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.889 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+         13268 function calls (11383 primitive calls) in 82.889 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.361    3.361 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.359    3.359 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.189    3.189 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.889 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.885   82.885 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.456   26.485 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.827   26.276   79.456   26.485 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   82.887   82.887 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.360    3.360 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.241   52.241 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.885   82.885 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.349    3.349 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.885   82.885 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.238   52.238 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.888 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.240   52.240 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.885   82.885 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+         13268 function calls (11383 primitive calls) in 82.887 seconds
+
+   Ordered by: cumulative time
+   List reduced from 555 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   82.886   82.886 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:213(main)
+        1    0.000    0.000   79.457   79.457 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:108(execute)
+        3    0.000    0.000   79.457   26.486 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:103(run)
+        3   78.828   26.276   79.457   26.486 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:485(run)
+        1    0.000    0.000   52.239   52.239 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:143(run_benchmark)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:36(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py:73(__init__)
+        1    0.000    0.000    3.368    3.368 /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py:86(make_simulation)
+        1    0.160    0.160    3.350    3.350 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/simulation.py:188(create_state_from_gsd)
+        1    3.184    3.184    3.188    3.188 /work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/state.py:251(__init__)
+
+
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@a08u17b>
+Subject: Job 205960: <hpcx-xbx> in cluster <qmhpc> Done
+
+Job <hpcx-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Wed Sep 25 02:48:27 2024
+Job was executed on host(s) <24*a08u17b>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Wed Sep 25 02:48:27 2024
+                            <24*a08u16b>
+                            <24*a08u17a>
+                            <24*a08u16a>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Wed Sep 25 02:48:27 2024
+Terminated at Wed Sep 25 02:50:00 2024
+Results reported at Wed Sep 25 02:50:00 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 96
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+#BSUB -J hpcx-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+source /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hpcx-init.sh
+module use /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/modulefiles
+module load hpcx
+
+time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 2000 -v
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   2000.14 sec.
+    Max Memory :                                 8656 MB
+    Average Memory :                             7978.60 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              31
+    Max Threads :                                107
+    Run time :                                   91 sec.
+    Turnaround time :                            93 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <205960.err> for stderr output of this job.
+

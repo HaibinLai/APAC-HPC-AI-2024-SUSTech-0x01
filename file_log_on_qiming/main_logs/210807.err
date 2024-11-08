@@ -1,0 +1,39 @@
+[mpiexec@b03u18a] match_arg (../../../../../src/pm/i_hydra/libhydra/arg/hydra_arg.c:91): unrecognized argument x
+[mpiexec@b03u18a] Similar arguments:
+[mpiexec@b03u18a] 	 demux
+[mpiexec@b03u18a] 	 s
+[mpiexec@b03u18a] 	 n
+[mpiexec@b03u18a] 	 enable-x
+[mpiexec@b03u18a] 	 f
+[mpiexec@b03u18a] HYD_arg_parse_array (../../../../../src/pm/i_hydra/libhydra/arg/hydra_arg.c:128): argument matching returned error
+[mpiexec@b03u18a] mpiexec_get_parameters (../../../../../src/pm/i_hydra/mpiexec/mpiexec_params.c:1359): error parsing input array
+[mpiexec@b03u18a] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1783): error parsing parameters
+real 0.08
+user 0.00
+sys 0.04
+[mpiexec@b03u18a] match_arg (../../../../../src/pm/i_hydra/libhydra/arg/hydra_arg.c:91): unrecognized argument x
+[mpiexec@b03u18a] Similar arguments:
+[mpiexec@b03u18a] 	 demux
+[mpiexec@b03u18a] 	 s
+[mpiexec@b03u18a] 	 n
+[mpiexec@b03u18a] 	 enable-x
+[mpiexec@b03u18a] 	 f
+[mpiexec@b03u18a] HYD_arg_parse_array (../../../../../src/pm/i_hydra/libhydra/arg/hydra_arg.c:128): argument matching returned error
+[mpiexec@b03u18a] mpiexec_get_parameters (../../../../../src/pm/i_hydra/mpiexec/mpiexec_params.c:1359): error parsing input array
+[mpiexec@b03u18a] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1783): error parsing parameters
+real 0.08
+user 0.01
+sys 0.04
+[mpiexec@b03u18a] match_arg (../../../../../src/pm/i_hydra/libhydra/arg/hydra_arg.c:91): unrecognized argument x
+[mpiexec@b03u18a] Similar arguments:
+[mpiexec@b03u18a] 	 demux
+[mpiexec@b03u18a] 	 s
+[mpiexec@b03u18a] 	 n
+[mpiexec@b03u18a] 	 enable-x
+[mpiexec@b03u18a] 	 f
+[mpiexec@b03u18a] HYD_arg_parse_array (../../../../../src/pm/i_hydra/libhydra/arg/hydra_arg.c:128): argument matching returned error
+[mpiexec@b03u18a] mpiexec_get_parameters (../../../../../src/pm/i_hydra/mpiexec/mpiexec_params.c:1359): error parsing input array
+[mpiexec@b03u18a] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1783): error parsing parameters
+real 0.08
+user 0.01
+sys 0.03

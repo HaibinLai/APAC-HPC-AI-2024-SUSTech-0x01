@@ -1,0 +1,103 @@
+ 
+:: initializing oneAPI environment ...
+   1726991124.204800.shell: BASH_VERSION = 4.4.20(1)-release
+   args: Using "$@" for setvars.sh arguments: intel64
+:: advisor -- latest
+:: ccl -- latest
+:: clck -- latest
+:: compiler -- latest
+:: dal -- latest
+:: debugger -- latest
+:: dev-utilities -- latest
+:: dnnl -- latest
+:: dpcpp-ct -- latest
+:: dpl -- latest
+:: inspector -- latest
+:: ipp -- latest
+:: ippcp -- latest
+:: ipp -- latest
+:: itac -- latest
+:: mkl -- latest
+:: mpi -- latest
+:: tbb -- latest
+:: vpl -- latest
+:: vtune -- latest
+:: oneAPI environment initialized ::
+ 
+Loading compiler version 2022.1.0
+Loading tbb version 2021.7.0
+Loading compiler-rt version 2022.2.0
+Loading oclfpga version 2022.2.0
+  Load "debugger" to debug DPC++ applications with the gdb-oneapi debugger.
+  Load "dpl" for additional DPC++ APIs: https://github.com/oneapi-src/oneDPL
+
+Loading openmpi/4.1.1_oneapi
+  Loading requirement: tbb/latest compiler-rt/latest oclfpga/latest
+    compiler/2022.1.0
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@a02u21s>
+Subject: Job 204800: <benchmark-xbx> in cluster <qmhpc> Exited
+
+Job <benchmark-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Sun Sep 22 15:45:24 2024
+Job was executed on host(s) <128*a02u21s>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Sun Sep 22 15:45:25 2024
+                            <128*b03u14a>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Sun Sep 22 15:45:25 2024
+Terminated at Sun Sep 22 15:45:41 2024
+Results reported at Sun Sep 22 15:45:41 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 256
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=128]"
+#BSUB -J benchmark-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+
+# module load tbb/2021.7.0
+# module load mpi/2021.7.0
+# module load gcc/11.2.0
+# module load openmpi/4.1.2_gcc-11.2.0
+source /work/share/intel/oneapi/setvars.sh intel64
+module load openmpi/4.1.1_oneapi
+
+time -p mpirun  --hostfile $LSB_DJOB_HOSTFILE -n $NP python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+------------------------------------------------------------
+
+Exited with exit code 127.
+
+Resource usage summary:
+
+    CPU time :                                   3.09 sec.
+    Max Memory :                                 37 MB
+    Average Memory :                             27.75 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   1 MB
+    Max Processes :                              5
+    Max Threads :                                6
+    Run time :                                   14 sec.
+    Turnaround time :                            17 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <204800.err> for stderr output of this job.
+

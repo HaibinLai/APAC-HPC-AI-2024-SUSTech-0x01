@@ -1,0 +1,558 @@
+[1726919641.005601] [a08u17b:4114383:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005626] [a08u17b:4114366:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006032] [a08u16a:957227:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006047] [a08u16a:957218:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006155] [a08u16a:957213:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006174] [a08u16a:957231:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006194] [a08u16a:957220:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006243] [a08u16a:957232:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006339] [a08u16a:957212:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006369] [a08u16a:957233:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006449] [a08u16a:957217:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006540] [a08u16a:957215:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006558] [a08u16a:957234:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006725] [a08u16a:957226:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006734] [a08u16a:957219:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006811] [a08u16a:957222:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006880] [a08u16a:957229:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006907] [a08u16a:957216:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006930] [a08u16a:957221:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006998] [a08u16a:957224:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007037] [a08u16a:957230:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005679] [a08u17b:4114372:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007242] [a08u16a:957223:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005745] [a08u17b:4114364:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007405] [a08u16a:957214:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005788] [a08u17b:4114369:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005836] [a08u17b:4114381:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005854] [a08u17b:4114375:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005865] [a08u17b:4114376:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005949] [a08u17b:4114380:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007650] [a08u16a:957228:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007720] [a08u16a:957225:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007765] [a08u16a:957211:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.005963] [a08u17b:4114379:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006103] [a08u17b:4114382:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006217] [a08u17b:4114371:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006286] [a08u17b:4114378:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006352] [a08u17b:4114374:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006418] [a08u17b:4114385:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006496] [a08u17b:4114386:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006794] [a08u17b:4114387:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006934] [a08u17b:4114377:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.006970] [a08u17b:4114370:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007043] [a08u17b:4114373:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007096] [a08u17b:4114365:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007221] [a08u17b:4114368:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007283] [a08u17b:4114384:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.007356] [a08u17b:4114367:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.089346] [a08u16b:3581592:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.089374] [a08u16b:3581587:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.089348] [a08u16b:3581596:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.089361] [a08u16b:3581588:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.089415] [a08u16b:3581602:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.090957] [a08u16b:3581607:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.091822] [a08u16b:3581593:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092016] [a08u16b:3581591:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092031] [a08u16b:3581599:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092064] [a08u16b:3581608:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092091] [a08u16b:3581595:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092241] [a08u16b:3581597:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092351] [a08u16b:3581603:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092429] [a08u16b:3581586:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092609] [a08u16b:3581601:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092674] [a08u16b:3581605:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092743] [a08u16b:3581590:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092755] [a08u16b:3581604:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092766] [a08u16b:3581594:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092830] [a08u16b:3581585:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.092934] [a08u16b:3581589:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093018] [a08u16b:3581600:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093022] [a08u16b:3581606:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093081] [a08u16b:3581598:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093373] [a08u17a:3191966:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093375] [a08u17a:3191978:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093410] [a08u17a:3191962:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093442] [a08u17a:3191970:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093465] [a08u17a:3191956:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.093570] [a08u17a:3191964:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094001] [a08u17a:3191959:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094066] [a08u17a:3191969:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094159] [a08u17a:3191976:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094442] [a08u17a:3191958:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094618] [a08u17a:3191968:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094686] [a08u17a:3191972:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094688] [a08u17a:3191974:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094776] [a08u17a:3191960:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094947] [a08u17a:3191977:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094967] [a08u17a:3191971:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.094988] [a08u17a:3191967:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.095148] [a08u17a:3191961:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.095163] [a08u17a:3191965:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.095219] [a08u17a:3191973:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.095514] [a08u17a:3191979:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.095563] [a08u17a:3191957:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.095582] [a08u17a:3191975:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.095715] [a08u17a:3191963:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[a08u16a:6:957217 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:6:957217 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:17:957228 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:17:957228 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:12:957223 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:12:957223 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:7:957218 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:7:957218 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:18:957229 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:18:957229 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:22:957233 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:22:957233 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:15:957226 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:15:957226 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:2:957213 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:2:957213 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:1:957212 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:1:957212 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:46:3581607 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:46:3581607 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:14:957225 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:14:957225 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:39:3581600 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:39:3581600 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:42:3581603 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:42:3581603 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:13:957224 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:13:957224 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:43:3581604 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:43:3581604 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:81:3191965 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:81:3191965 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:75:3191959 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:75:3191959 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:28:3581589 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:28:3581589 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:11:957222 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:11:957222 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:90:3191974 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:90:3191974 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:30:3581591 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:30:3581591 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:41:3581602 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:41:3581602 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:76:3191960 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:76:3191960 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:3:957214 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:3:957214 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:23:957234 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:23:957234 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:21:957232 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:21:957232 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:9:957220 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:9:957220 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:19:957230 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:19:957230 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:5:957216 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:5:957216 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:16:957227 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:16:957227 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:4:957215 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:4:957215 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:10:957221 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:10:957221 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:0:957211 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:0:957211 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:8:957219 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:8:957219 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16a:20:957231 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16a:20:957231 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:86:3191970 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:86:3191970 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:69:4114385 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:69:4114385 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:40:3581601 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:40:3581601 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:85:3191969 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:56:4114372 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:56:4114372 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:32:3581593 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:32:3581593 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:85:3191969 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:70:4114386 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:70:4114386 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:26:3581587 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:26:3581587 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:92:3191976 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:92:3191976 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:55:4114371 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:55:4114371 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:82:3191966 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:82:3191966 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:59:4114375 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:59:4114375 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:80:3191964 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:80:3191964 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:61:4114377 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:61:4114377 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:78:3191962 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:78:3191962 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:67:4114383 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:67:4114383 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:88:3191972 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:88:3191972 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:64:4114380 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:64:4114380 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:93:3191977 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:93:3191977 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:52:4114368 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:52:4114368 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:72:3191956 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:51:4114367 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:51:4114367 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:72:3191956 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:57:4114373 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:57:4114373 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:91:3191975 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:91:3191975 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:58:4114374 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:58:4114374 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:73:3191957 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:73:3191957 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:53:4114369 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:74:3191958 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:74:3191958 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:53:4114369 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:79:3191963 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:79:3191963 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:63:4114379 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:63:4114379 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:89:3191973 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:89:3191973 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:50:4114366 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:50:4114366 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:77:3191961 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:65:4114381 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:65:4114381 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:77:3191961 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:71:4114387 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:71:4114387 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:95:3191979 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:95:3191979 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:60:4114376 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:60:4114376 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:83:3191967 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:83:3191967 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:54:4114370 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:54:4114370 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:87:3191971 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:87:3191971 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:49:4114365 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:84:3191968 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:84:3191968 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:49:4114365 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17a:94:3191978 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17a:94:3191978 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:68:4114384 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:68:4114384 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:66:4114382 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:66:4114382 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:48:4114364 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:48:4114364 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u17b:62:4114378 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u17b:62:4114378 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:38:3581599 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:38:3581599 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:36:3581597 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:36:3581597 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:34:3581595 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:34:3581595 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:44:3581605 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:44:3581605 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:24:3581585 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:24:3581585 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:37:3581598 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:37:3581598 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:45:3581606 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:45:3581606 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:25:3581586 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:25:3581586 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:31:3581592 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:31:3581592 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:47:3581608 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:47:3581608 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:33:3581594 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:33:3581594 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:35:3581596 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:35:3581596 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:29:3581590 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:29:3581590 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[a08u16b:27:3581588 unique id 2949840897] ERROR Not connected in sharp_init_session.
+
+[a08u16b:27:3581588 - context.c:276] ERROR failed to open sharp session with SHARPD daemon. please check daemon status
+[LOG_CAT_SHARP] continuing without SHArP collectives...
+[1726919641.785967] [a08u16a:957215:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.786008] [a08u16a:957211:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.786046] [a08u16a:957220:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.786097] [a08u16a:957221:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.786117] [a08u16a:957212:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.786172] [a08u16a:957217:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.786404] [a08u16a:957213:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.786743] [a08u16a:957225:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.785896] [a08u16b:3581591:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.791986] [a08u17b:4114378:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.793828] [a08u17b:4114377:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.795222] [a08u16b:3581590:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.795615] [a08u17a:3191967:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.795827] [a08u16a:957224:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796100] [a08u17b:4114372:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796162] [a08u17b:4114373:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796169] [a08u17b:4114375:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796309] [a08u17b:4114376:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796388] [a08u17b:4114371:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796398] [a08u17b:4114374:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796317] [a08u16b:3581588:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796480] [a08u16b:3581606:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796890] [a08u17a:3191971:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796912] [a08u17a:3191968:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796978] [a08u17a:3191976:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796978] [a08u16a:957214:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796784] [a08u16b:3581602:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797060] [a08u17b:4114379:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797142] [a08u16b:3581600:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797315] [a08u17a:3191975:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797576] [a08u17a:3191963:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797655] [a08u17a:3191964:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797840] [a08u16a:957218:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797999] [a08u17b:4114383:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.799109] [a08u16a:957216:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.799116] [a08u17b:4114381:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.799184] [a08u16a:957219:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.799449] [a08u16a:957226:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797899] [a08u17b:4114380:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.798553] [a08u17b:4114384:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.800043] [a08u17b:4114382:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797204] [a08u16b:3581592:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.796011] [a08u16b:3581589:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.797913] [a08u16b:3581594:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.801089] [a08u17a:3191959:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.801108] [a08u17a:3191960:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.801269] [a08u16b:3581593:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.801653] [a08u16a:957232:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.801519] [a08u16b:3581598:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.802634] [a08u16a:957233:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.803055] [a08u16a:957229:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.804876] [a08u16b:3581607:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.804513] [a08u17a:3191962:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.806710] [a08u16a:957223:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.804783] [a08u17a:3191978:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.806527] [a08u17b:4114387:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.805066] [a08u17a:3191956:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.806026] [a08u16b:3581596:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.805084] [a08u17a:3191977:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.806526] [a08u16b:3581599:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.806730] [a08u17a:3191974:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.806826] [a08u17a:3191973:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.806546] [a08u16b:3581595:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.806890] [a08u17a:3191961:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807281] [a08u17b:4114366:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807453] [a08u17a:3191965:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807561] [a08u17a:3191957:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807608] [a08u17a:3191979:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807548] [a08u17b:4114364:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807534] [a08u17b:4114385:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807661] [a08u17a:3191966:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807762] [a08u17a:3191958:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.807611] [a08u16b:3581605:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.808306] [a08u16b:3581608:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.808591] [a08u16a:957231:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.808658] [a08u16b:3581601:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.809067] [a08u17b:4114386:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.809351] [a08u16a:957222:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.809442] [a08u16b:3581597:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.809732] [a08u16a:957227:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.809801] [a08u17b:4114370:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.809776] [a08u16b:3581603:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.810016] [a08u16a:957234:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.811125] [a08u16a:957228:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.811146] [a08u16a:957230:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.811154] [a08u17b:4114369:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.810955] [a08u16b:3581604:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.811213] [a08u16b:3581587:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.811236] [a08u16b:3581585:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.811452] [a08u17a:3191970:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.811468] [a08u17a:3191972:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.812077] [a08u17a:3191969:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.812075] [a08u17b:4114365:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.812095] [a08u17b:4114368:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.820426] [a08u17b:4114367:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+[1726919641.820212] [a08u16b:3581586:0]       ib_verbs.h:84   UCX  ERROR ibv_exp_query_device(mlx5_0) returned 38: No space left on device
+Using existing initial_configuration_cache/hard_sphere_2000000_1.0_3.gsd
+notice(2): Using domain decomposition: n_x = 4 n_y = 4 n_z = 6.
+Running MDPairWCA benchmark
+.. warming up for 1000 steps
+.. running for 100000 steps 1 time(s)
+.. 37.08009282028256 time steps per second
+37.08009282028256
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@a08u16a>
+Subject: Job 204661: <hpcx-xbx> in cluster <qmhpc> Done
+
+Job <hpcx-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Sat Sep 21 19:53:46 2024
+Job was executed on host(s) <24*a08u16a>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Sat Sep 21 19:53:47 2024
+                            <24*a08u16b>
+                            <24*a08u17b>
+                            <24*a08u17a>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Sat Sep 21 19:53:47 2024
+Terminated at Sat Sep 21 20:39:38 2024
+Results reported at Sat Sep 21 20:39:38 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 96
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+#BSUB -J hpcx-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+source /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hpcx-init.sh
+module use /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/modulefiles
+module load hpcx
+
+#time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+# oshmem中启动hcoll
+#time -p oshrun  -mca scoll_mpi_enable 1 -mca scoll basic,mpi -mca coll_hcoll_enable 1 -x HCOLL_ENABLE_SHARP=1 -x HCOLL_ALLREDUCE_LB_SUPPORT=0 -x HCOLL_BCOL_P2P_LARGE_ALLREDUCE_ALG=1 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NODE_RADIX=3 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NET_RADIX=2 --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+# mpi中启动hcoll
+time -p mpirun -mca coll_hcoll_enable 1 -x HCOLL_ENABLE_SHARP=1 -x HCOLL_ALLREDUCE_LB_SUPPORT=0 -x HCOLL_BCOL_P2P_LARGE_ALLREDUCE_ALG=1 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NODE_RADIX=3 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NET_RADIX=2 --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   64873.31 sec.
+    Max Memory :                                 8728 MB
+    Average Memory :                             8601.73 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              31
+    Max Threads :                                107
+    Run time :                                   2749 sec.
+    Turnaround time :                            2752 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <204661.err> for stderr output of this job.
+

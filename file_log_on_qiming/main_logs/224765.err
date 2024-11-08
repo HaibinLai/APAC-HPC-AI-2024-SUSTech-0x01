@@ -1,0 +1,10 @@
+[a08u11b:2681221] *** Process received signal ***
+[a08u11b:2681221] Signal: Segmentation fault (11)
+[a08u11b:2681221] Signal code: Address not mapped (1)
+[a08u11b:2681221] Failing at address: (nil)
+[a08u11b:2681221] [ 0] /lib64/libpthread.so.0(+0x12ce0)[0x14b4bc843ce0]
+[a08u11b:2681221] *** End of error message ***
+/work/apac4/.lsbatch/1730191527.224765.shell: line 20: 2681221 Segmentation fault      (core dumped) mpirun --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+real 28.21
+user 0.17
+sys 0.08

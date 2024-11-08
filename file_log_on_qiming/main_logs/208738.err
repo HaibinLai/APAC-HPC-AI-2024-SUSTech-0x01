@@ -1,0 +1,676 @@
+Warning: Permanently added 'b05u04s,10.10.5.4' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'b03u12a,10.10.3.115' (ECDSA) to the list of known hosts.
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+    from hoomd import _hoomd
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    from hoomd import _hoomd
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import _hoomd
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    from hoomd import _hoomd
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 6, in <module>
+    import hoomd
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/__init__.py", line 60, in <module>
+    from hoomd import version
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/site-packages/hoomd/version.py", line 64, in <module>
+    from hoomd import _hoomd
+ImportError: libtbb.so.12: cannot open shared object file: No such file or directory
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[54758,1],35]
+  Exit code:    1
+--------------------------------------------------------------------------
+real 6.85
+user 0.88
+sys 0.79

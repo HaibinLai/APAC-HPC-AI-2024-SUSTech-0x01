@@ -1,0 +1,13 @@
+Warning: Permanently added 'b03u06a,10.10.3.116' (ECDSA) to the list of known hosts.
+--------------------------------------------------------------------------
+mpirun was unable to find the specified executable file, and therefore
+did not launch the job.  This error was first reported for process
+rank 48; it may have occurred for other processes as well.
+
+NOTE: A common cause for this error is misspelling a mpirun command
+      line parameter option (remember that mpirun interprets the first
+      unrecognized command line token as the executable).
+
+Node:       b03u20a
+Executable: /share/intel/oneapi/vtune/2022.4.0/bin64/vtune
+--------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 128
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=128]"
+#BSUB -J benchmark-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+# cd /work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+module load tbb/2021.7.0
+module load gcc/11.2.0
+module load openmpi/4.1.2_gcc-11.2.0
+
+time -p mpirun --hostfile $LSB_DJOB_HOSTFILE -n 128 python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v

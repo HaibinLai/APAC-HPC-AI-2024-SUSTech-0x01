@@ -1,0 +1,29 @@
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 696
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=24]"
+#BSUB -J ipm-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+source /share/intel/oneapi/setvars.sh
+source /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/hpcx-init.sh
+module use /work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/modulefiles
+module load hpcx
+
+export IPM_DIR=/work/apac4/xbx/apac/hpc/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.6-x86_64/ompi/tests/ipm-2.0.6
+IPM_KEYFILE=$IPM_DIR/etc/ipm_key_mpi
+export PATH=/work/apac4/lzd/cpu/binutils/bin:$PATH
+export LD_LIBRARY_PATH=/work/apac4/lzd/cpu/binutils/lib:$LD_LIBRARY_PATH
+export IPM_LOG=full
+export LD_PRELOAD=$IPM_DIR/lib/libipm.so
+
+# time -p mpirun -mca coll_hcoll_enable 1 -x HCOLL_ENABLE_SHARP=1 -x HCOLL_ALLREDUCE_LB_SUPPORT=0 -x HCOLL_BCOL_P2P_LARGE_ALLREDUCE_ALG=1 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NODE_RADIX=3 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NET_RADIX=2 --hostfile $LSB_DJOB_HOSTFILE -np $NP -x LD_PRELOAD -x LD_LIBRARY_PATH -x PATH python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 10000 -v
+time -p oshrun  -mca scoll_mpi_enable 1 -mca scoll basic,mpi -mca coll_hcoll_enable 1 -x HCOLL_ENABLE_SHARP=1 -x HCOLL_ALLREDUCE_LB_SUPPORT=0 -x HCOLL_BCOL_P2P_LARGE_ALLREDUCE_ALG=1 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NODE_RADIX=3 -x HCOLL_BCOL_UCX_P2P_HYBRID_SRA_NET_RADIX=2 --hostfile $LSB_DJOB_HOSTFILE -n $NP -x LD_LIBRARY_PATH -x PATH -x CONDA_PREFIX -x CONDA_DEFAULT_ENV -x LD_PRELOAD python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 10000 -v 

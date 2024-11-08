@@ -1,0 +1,1550 @@
+Warning: Permanently added 'b07u18a,10.10.7.11' (ECDSA) to the list of known hosts.
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+Traceback (most recent call last):
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    return _run_code(code, main_globals, None,
+  File "/work/apac4/miniforge3/envs/apac-hpc-xbx/lib/python3.10/runpy.py", line 86, in _run_code
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    exec(code, run_globals)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair_wca.py", line 34, in <module>
+    MDPairWCA.main()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 219, in main
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    benchmark = cls(**vars(args))
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 52, in __init__
+    super().__init__(**kwargs)
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    super().__init__(**kwargs)
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/common.py", line 93, in __init__
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    self.sim = self.make_simulation()
+  File "/work/apac4/xbx/apac/hpc/hoomd-benchmarks/hoomd_benchmarks/md_pair.py", line 111, in make_simulation
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+    pair.params[(particle_types, particle_types)] = self.pair_params
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+AttributeError: 'MDPairWCA' object has no attribute 'pair_params'. Did you mean: 'pair_class'?
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 35 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[b03u20a:958685] 95 more processes have sent help message help-mpi-api.txt / mpi-abort
+[b03u20a:958685] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+real 16.45
+user 128.58
+sys 67.08

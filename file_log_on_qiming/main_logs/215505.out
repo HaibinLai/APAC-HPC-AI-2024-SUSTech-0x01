@@ -1,0 +1,71 @@
+Loading tbb/2021.7.0
+  ERROR: tbb/2021.7.0 cannot be loaded due to a conflict.
+    HINT: Might try "module unload tbb" first.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@b05u23a>
+Subject: Job 215505: <benchmark-xbx> in cluster <qmhpc> Exited
+
+Job <benchmark-xbx> was submitted from host <b04u17l> by user <apac4> in cluster <qmhpc> at Mon Oct 14 23:37:47 2024
+Job was executed on host(s) <128*b05u23a>, in queue <ssc-cpu>, as user <apac4> in cluster <qmhpc> at Mon Oct 14 23:37:49 2024
+                            <128*b03u14a>
+</work/apac4> was used as the home directory.
+</work/apac4/xbx/apac/hpc/hoomd-benchmarks> was used as the working directory.
+Started at Mon Oct 14 23:37:49 2024
+Terminated at Mon Oct 14 23:37:59 2024
+Results reported at Mon Oct 14 23:37:59 2024
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q ssc-cpu
+#BSUB -n 256
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -R "span[ptile=128]"
+#BSUB -J benchmark-xbx
+
+hostfile=`echo $LSB_DJOB_HOSTFILE`
+NP=`cat $hostfile | wc -l`
+cd $LS_SUBCWD
+
+source /work/apac4/miniforge3/etc/profile.d/conda.sh
+conda activate apac-hpc-xbx
+
+
+module load tbb/2021.7.0
+# module load mpi/2021.7.0
+# module load gcc/11.2.0
+module load openmpi/4.1.2_gcc-11.2.0
+#source /work/share/intel/oneapi/setvars.sh intel64
+#module load openmpi/4.1.1_oneapi
+
+time -p mpirun --mca coll_tuned_verbose 1  --hostfile $LSB_DJOB_HOSTFILE -n $NP python3 -m hoomd_benchmarks.md_pair_wca --device CPU -N 2000000 --benchmark_steps 100000 -v
+
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   15.29 sec.
+    Max Memory :                                 36 MB
+    Average Memory :                             24.00 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   1 MB
+    Max Processes :                              5
+    Max Threads :                                9
+    Run time :                                   9 sec.
+    Turnaround time :                            12 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <215505.err> for stderr output of this job.
+

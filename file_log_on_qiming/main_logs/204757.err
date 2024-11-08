@@ -1,0 +1,21 @@
+Warning: Permanently added 'b07u34a,10.10.7.25' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'b07u27a,10.10.7.18' (ECDSA) to the list of known hosts.
+Unknown option: -x
+Unknown option: -x
+Unknown option: -x
+Unknown option: -x
+Unknown option: -x
+Unknown option: -x
+Unknown option: -x
+--------------------------------------------------------------------------
+mpirun was unable to find the specified executable file, and therefore
+did not launch the job.  This error was first reported for process
+rank 24; it may have occurred for other processes as well.
+
+NOTE: A common cause for this error is misspelling a mpirun command
+      line parameter option (remember that mpirun interprets the first
+      unrecognized command line token as the executable).
+
+Node:       b03u20a
+Executable: /share/intel/oneapi/vtune/2022.4.0/bin64/vtune
+--------------------------------------------------------------------------
