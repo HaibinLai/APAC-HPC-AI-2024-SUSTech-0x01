@@ -11,6 +11,8 @@ Structure of the repo:
 
 The log file on Qiming 2.0 Cluster
 
+you can find the main logs on /file_log_on_qiming/main_logs
+
 > Haibin99.b07u26a
 
 The Intel Vtune Profiler log for HPC HOOMD-blue 
