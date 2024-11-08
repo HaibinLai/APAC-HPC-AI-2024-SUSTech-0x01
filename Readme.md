@@ -1,7 +1,7 @@
 # APAC HPC-AI 2024 
 ## SUSTech 0x01 Team
 
-Profiling repo
+**Profiling logs repo**
 
 Thie repo record our profiling result in APAC 2024 HPC-AI 
 
