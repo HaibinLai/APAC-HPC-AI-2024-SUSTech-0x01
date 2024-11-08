@@ -1,0 +1,61 @@
+
+1486009 : 0x14df6d1b68f8dd : 3 : logger_init :  LOG FILE OPENED (by collectunits.logger), level: 4
+1486009 : 0x14df6d1eb8030c : 4 : probePythonFunctions :  PyThreadState_Swap
+1486009 : 0x14df6d1ebf3044 : 4 : probePythonFunctions :  PyImport_Cleanup
+1486009 : 0x14df6d1ed6bf59 : 4 : probePythonFunctions :  PyThreadState_Clear
+1486009 : 0x14df6d1ee3647a : 4 : probePythonFunctions :  PyEval_InitThreads
+1486009 : 0x14df6d1eec5255 : 4 : probePythonFunctions :  Py_Initialize
+1486009 : 0x14df6d1ef55e91 : 4 : probePythonFunctions :  Py_InitializeEx
+1486009 : 0x14df6d1efa297a : 4 : probePythonFunctions :  PyOS_AfterFork
+1486009 : 0x14df6d1f002b56 : 4 : probePythonFunctions :  PyCode_New
+1486009 : 0x14df6d1f381b3a : 4 : probePythonFunctions :  _Py_InitializeEx_Private
+1486009 : 0x14df6d1f4ca943 : 4 : probePythonFunctions :  Py_FinalizeEx
+1486009 : 0x14df6d1f5b14c7 : 4 : probePythonFunctions :  _PyEval_EvalFrameDefault
+1486009 : 0x14df6d20f2054f : 4 : probePythonFunctions :  PyInterpreterState_Head
+1486009 : 0x14df6d20f48992 : 4 : probePythonFunctions :  PyInterpreterState_Next
+1486009 : 0x14df6d20f622b7 : 4 : probePythonFunctions :  PyInterpreterState_ThreadHead
+1486009 : 0x14df6d20f7b258 : 4 : probePythonFunctions :  PyThreadState_Next
+1486009 : 0x14df6d20f92de0 : 4 : probePythonFunctions :  PyThreadState_New
+1486009 : 0x14df6d20fe3eb7 : 4 : probePythonFunctions :  PyThreadState_Delete
+1486009 : 0x14df6d2103112f : 4 : probePythonFunctions :  PyGILState_GetThisThreadState
+1486009 : 0x14df6d21048cc5 : 4 : probePythonFunctions :  PyEval_AcquireThread
+1486009 : 0x14df6d2109895f : 4 : probePythonFunctions :  PyEval_ReleaseThread
+1486009 : 0x14df6d210b1438 : 4 : probePythonFunctions :  Py_GetVersion
+1486009 : 0x14df6d210f8b25 : 4 : probePythonFunctions :  PySys_GetObject
+1486009 : 0x14df6d21151967 : 4 : probePythonFunctions :  PyLong_AsLong
+1486009 : 0x14df6d2118a2bb : 4 : probePythonFunctions :  Py_IncRef
+1486009 : 0x14df6d2119cc9c : 4 : probePythonFunctions :  Py_DecRef
+1486009 : 0x14df6d211aedb9 : 4 : probePythonFunctions :  PyThreadState_Get
+1486009 : 0x14df6d211dbd82 : 4 : probePythonFunctions :  PyEval_GetFrame
+1486009 : 0x14df6d212061d9 : 4 : probePythonFunctions :  PyEval_ThreadsInitialized
+1486009 : 0x14df6d2121c8a0 : 4 : probePythonFunctions :  PyObject_GetAttrString
+1486009 : 0x14df6d2125f8c0 : 4 : probePythonFunctions :  PyObject_Call
+1486009 : 0x14df6d2128f0cb : 4 : probePythonFunctions :  PyTuple_New
+1486009 : 0x14df6d212bf8d5 : 4 : probePythonFunctions :  PyTuple_SetItem
+1486009 : 0x14df6d212f290a : 4 : probePythonFunctions :  PyList_New
+1486009 : 0x14df6d21325659 : 4 : probePythonFunctions :  PyList_GetItem
+1486009 : 0x14df6d2135a449 : 4 : probePythonFunctions :  PyList_Size
+1486009 : 0x14df6d2138a36b : 4 : probePythonFunctions :  PyThread_get_thread_ident
+1486009 : 0x14df6d213b6ab5 : 4 : probePythonFunctions :  PyErr_Fetch
+1486009 : 0x14df6d213e1482 : 4 : probePythonFunctions :  PyErr_Restore
+1486009 : 0x14df6d2140e67f : 4 : probePythonFunctions :  PyDict_Next
+1486009 : 0x14df6d21438b1b : 4 : probePythonFunctions :  PyDict_Size
+1486009 : 0x14df6d21467ac4 : 4 : probePythonFunctions :  PyDict_GetItemString
+1486009 : 0x14df6d214a416b : 4 : probePythonFunctions :  PyImport_GetModuleDict
+1486009 : 0x14df6d214d0ea7 : 4 : probePythonFunctions :  PyBytes_AsStringAndSize
+1486009 : 0x14df6d215255f9 : 4 : probePythonFunctions :  PyBytes_AsString
+1486009 : 0x14df6d2155e48f : 4 : probePythonFunctions :  PyUnicode_EncodeLocale
+1486009 : 0x14df6d215b6fcc : 4 : probePythonFunctions :  PyUnicode_EncodeFSDefault
+1486009 : 0x14df6d2ddbcff2 : 4 : pytrace_start_profiling :  [CALLED]
+1486009 : 0x14df6d330fd059 : 4 : pytrace_start_profiling :  [CALLED]
+1486009 : 0x14df6d3310a81f : 4 : initTmu :  init tmu started
+1486009 : 0x14df6d33156388 : 4 : initTmu :  init tmu finished
+1486009 : 0x14df6d3319f91f : 4 : start :  pytrace started successfully
+1486009 : 0x14df6d331a292f : 4 : pytrace_start_profiling :  PyTrace collection is started
+1486009 : 0x14df6d33e94165 : 4 : Py_InitializeEx_Private :  [CALLED]
+1486009 : 0x14df6d33e99ab9 : 4 : Py_Initialize :  [CALLED]
+1486009 : 0x14df6d33e9b6a0 : 4 : PyEval_InitThreads :  [CALLED]
+1486009 : 0x14df6d33e9f86f : 4 : PyEval_InitThreads :  [CALLED]
+1486009 : 0x14df6d34570ea3 : 4 : writeInitialInfo :  write initial info started
+1486009 : 0x14df6d3457a143 : 4 : writeInitialInfo :  write initial info finished
+1486009 : 0x14df6d37ad2d10 : 4 : PyImport_Cleanup :  [CALLED]
