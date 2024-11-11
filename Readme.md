@@ -1,4 +1,4 @@
-# HPC
+#  APAC 2024 HPC-AI
 ## SUSTech 0x01 Team
 
 **Profiling logs repo**
