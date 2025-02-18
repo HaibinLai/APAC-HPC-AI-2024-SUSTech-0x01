@@ -1,4 +1,7 @@
-#  APAC 2024 HPC-AI  *Second Prize*
+#  APAC 2024 HPC-AI Profiling Repo
+
+We won *Second Prize* in APAC HPC-AI competition and we will go to SCA 24 in Singapore!
+
 ## SUSTech 0x01 Team
 
 **HPC Groups:**
@@ -13,6 +16,8 @@
 	Yukun Yang
 	Honglie Li
 	Junyu Su
+
+-----
 
 **Profiling logs repo**
 
