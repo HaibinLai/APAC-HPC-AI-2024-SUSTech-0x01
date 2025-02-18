@@ -1,5 +1,18 @@
-#  APAC 2024 HPC-AI
+#  APAC 2024 HPC-AI  *Second Prize*
 ## SUSTech 0x01 Team
+
+**HPC Groups:**
+	ZuDong Li (leader)
+	Haibin Lai
+	Benxiang Xiao
+	Zixu Wang
+	Wenhan Tan
+	Wenbo An
+
+**AI Groups:**
+	Yukun Yang
+	Honglie Li
+	Junyu Su
 
 **Profiling logs repo**
 
