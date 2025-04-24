@@ -1,6 +1,6 @@
 #  APAC 2024 HPC-AI Profiling Repo
 
-We won *Second Prize* in APAC HPC-AI competition and we will go to SCA 24 in Singapore!
+We won *Third Prize* in APAC HPC-AI competition and we will go to SCA 24 in Singapore!
 
 https://newshub.sustech.edu.cn/html/202503/46336.html
 ![图片](https://github.com/user-attachments/assets/a355e13d-7e6b-4722-8c56-aca859898760)
